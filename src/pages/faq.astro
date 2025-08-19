@@ -1,0 +1,21 @@
+---
+import Base from "@/layouts/Base.astro";
+import Search from "@/layouts/Search";
+import PageHeader from "@/partials/PageHeader.astro";
+import type { CollectionEntry } from "astro:content";
+import { getEntry } from "astro:content";
+
+const { data } = (await getEntry("faq", "-index")) as CollectionEntry<"faq">;
+const { title, subtitle, faq_list } = data;
+---
+
+<Base>
+  <PageHeader title={title} subtitle={subtitle} />
+  <section class="section">
+    <div class="container">
+      <div class="row justify-center">
+        <Search faq_list={faq_list} client:load />
+      </div>
+    </div>
+  </section>
+</Base>

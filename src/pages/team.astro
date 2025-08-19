@@ -1,0 +1,26 @@
+---
+import TeamMember from "@/components/TeamMember.astro";
+import Base from "@/layouts/Base.astro";
+import PageHeader from "@/partials/PageHeader.astro";
+import type { CollectionEntry } from "astro:content";
+import { getEntry } from "astro:content";
+const { data } = (await getEntry("team", "-index")) as CollectionEntry<"team">;
+const { title, subtitle, team_members } = data;
+---
+
+<Base {...data}>
+  <PageHeader title={title} subtitle={subtitle} />
+  <section class="section bg-theme-body dark:bg-darkmode-body">
+    <div class="container">
+      <div class="row gy-5 lg:gy-4">
+        {
+          team_members.map((member) => (
+            <div class="lg:col-3 md:col-6">
+              <TeamMember {...member} />
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+</Base>
