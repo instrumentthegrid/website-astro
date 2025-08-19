@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Bigspring Astro and Tailwindcss",
-    "base_url": "https://example.com",
+    "title": "GridVisibility, Inc.",
+    "base_url": "https://gridvisibility.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -9,7 +9,7 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "180",
     "logo_height": "39",
-    "logo_text": "Bigspring"
+    "logo_text": "GridVisibility"
   },
 
   "settings": {
