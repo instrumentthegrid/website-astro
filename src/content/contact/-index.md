@@ -10,6 +10,6 @@ draft: false
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
 
-- **Phone: +1 720 99 GRID V**
-- **Mail: [info@gridvisibility.com](mailto:info@gridvisibility.com)**
+- **Phone: [+1 720 99 GRID V](tel:+17209947438)**
+- **Mail: [info@gridvisibility.com](mailto:info@gridvisibility.com?Subject=Website%20Inquiry)**
 - **Address: Longmont, CO, USA**

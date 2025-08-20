@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: High-fidelity, Time Synchronized Grid Visibility for Continuous Fault & State-of-the-Grid Monitoring
+  content: Harnessing existing broadband infrastructure to deliver real-time, all-the-time electrical data, enabling unprecedented visibility and situational awareness of distribution grid behaviors.
   image: /images/banner.png
   conclusion: The best customer experiences are built with Bigspring
   button:
@@ -40,25 +40,25 @@ brands_images:
 
 # feature
 feature:
-  title: The ultimate platform for creating, sharing, and executing.
-  description: We are helping thousands of organizations run their business strategies and achieve their ambitious results! We make big plans happen.
+  title: High-fidelity, Time Synchronized Grid Visibility
+  description: Harnessing existing broadband infrastructure to deliver real-time, all-the-time electrical data, enabling unprecedented visibility and situational
   button:
-    label: Try for Free
+    label: Learn More
     link: "/contact"
     enable: true
   features:
-    - name: "Cloud Support"
-      icon: "FaMixcloud"
-      content: Fugiat similique nobis porro cumque stinctio iusto quaerat corrupti.
-    - name: "Object Oriented"
-      icon: "FaCircleDot"
-      content: Fugiat similique nobis porro cumque stinctio iusto quaerat corrupti.
-    - name: "24h Service"
-      icon: "FaHeadphones"
-      content: Fugiat similique nobis porro cumque stinctio iusto quaerat corrupti.
-    - name: "Faster Response"
-      icon: "FaThumbsUp"
-      content: Fugiat similique nobis porro cumque stinctio iusto quaerat corrupti.
+    - name: "NERC/FERC Compliance"
+      icon: "FaLock"
+      content: Enables rapid, scaleable, secure, and flexible distribution grid monitoring to meet NERC/FERC compliance requirements.
+    - name: "Model Verification"
+      icon: "FaCheck"
+      content: APIs + ad hoc downloads provide high fidelity, near real time distribution data for model validation, training, and live model support.
+    - name: "Event Analysis"
+      icon: "FaChartLine"
+      content: High fidelity raw event data + embedded platform analytical tools support unprecedented post-event analysis capability.
+    - name: "Situational Awareness"
+      icon: "FaBinoculars"
+      content: 365/24/7 sensor streaming across multiple utility footprints empowers previously impossible grid situational awareness.
 
 # workflow
 workflow:
