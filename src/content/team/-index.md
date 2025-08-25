@@ -8,7 +8,7 @@ draft: false
 # team_members
 team_members:
   - name: "Scott Caruso"
-    designation: "CEO"
+    designation: "Co-Founder & CEO"
     image: "/images/team/team-member-01.webp"
     social_profile:
       - name: "Linkedin"
@@ -16,7 +16,7 @@ team_members:
         link: "https://www.linkedin.com/in/slcaruso/"
 
   - name: "Steve Glennon"
-    designation: "CTO"
+    designation: "Co-Founder & CTO"
     image: "/images/team/team-member-02.webp"
     social_profile:
       - name: "Linkedin"
