@@ -65,7 +65,7 @@ team_members:
 
   - name: "Phil Rosenberg-Watt"
     designation: "Infrastructure"
-    image: "/images/team/Philip Rosenberg-Watt headshot.jpeg"
+    image: "/images/team/watt.jpeg"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
