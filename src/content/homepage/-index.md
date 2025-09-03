@@ -93,7 +93,7 @@ services:
 # Integrate
 integrate:
   title: Supplement the Tools Your Teams Already Use.
-  content: "We built our flexible web interface and API-native solution to augment and support all current grid data, monitoring, and operational applications. However, we're also developing and supporting completely new analytic and continuous insight and integration paradigms. Because we've already \"done the impossible\", we must support both the \"current\" and \"next generation\" grid monitoring and management paths."
+  content: We built our flexible web interface and API-native solution to augment and support all current grid data, monitoring, and operational applications. However, we're also developing and supporting completely new analytic and continuous insight and integration paradigms. Because we've already "done the impossible", we must support both the "current" and "next generation" grid monitoring and management paths.
   image: "/images/cta.png"
   tools:
     - /images/tools/1.webp
