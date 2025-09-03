@@ -5,70 +5,70 @@ image: "/images/avatar.png"
 draft: false
 
 about:
-  title: Give Your Team The Design Mindset & Tools
-  description: Create a best strategic tool, share it your team and ensure it’s on track with intuitive dashboards. Simple enough with the flexibility Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  title: Paradigm Shifting GridVisibility
+  description: "After developing and incubating our technology within CableLabs (the global broadband R&D leader), we closely collaborated with key industry constituents, like Comcast and Charter, to bring this paradigm shifting solution to market. GridVisibility harnesses the broadband industry’s existing communication network assets to solve one of THE biggest grid challenges today - how to provide real-time awareness of the state of the distribution grid, cost efficiently, rapidly and at scale...now."
   image: /images/about/about.webp
 
 goal:
-  name: Charles Dickens
-  description: We’re changing how product managers, developers, and data scientists plan, track, and govern analytics across organizations. Before Avo, teams were forced to choose between product delivery speed and reliable insights.
+  name: Kyle Thomas
+  description: "GridVisibility “helps enhance VELCO’s ability to anticipate and adapt to grid transformation during the energy transition.”"
   avatar: /images/authors/author-1.webp
-  designation: The Founder, Bigspring LLC
+  designation: "VP of Engineering & Compliance Services, Elevate Energy Consulting"
 
 lists:
   - title: Who we are?
-    description: "We started in 2018 because we believe we can change the way organizations use data to make better decisions for their customers. We’ve been blown away by the impact BI has had on data quality and developer productivity for our customers.
+    description: "We are a seasoned team of innovators, technologists, communications and utility experts. The founders, Scott Caruso and Steve Glennon, worked for over seven years together at CableLabs developing the GridVisibility Platform. In 2024, we acquired a license to the patented technology, and formally launched GridVisibility, inc. in January 2025."
     <br />
     <br />
-    From startups to consumer it’s been incredible to see our product fundamentally change the way PMs, devs and data scientists collaborate to track and govern their analytics."
+    "This extraordinary team includes Mike Walker (former NERC and National Grid USA executive), Matt Burks (former Chief Strategy Officer at E Source), and Ralph Brown (former CTO at CableLabs)."
   - title: Our mission
-    description: "Companies have never had to understand their customers better or faster. Consumers choose the product with the best experience and companies can’t afford to stall product decisions while waiting days or weeks for answers from a centralized BI team.
+    description: "It is extremely rare to discover a solution that will fundamentally transform the world, along with a team that can do it. In these changing times, GridVisibility provides a common sense, yet paradigm shifting, solution for grid monitoring and operations."
     <br />
     <br />
-    The industry gold standard has become to decentralize business intelligence, so that every team is autonomous in making data-driven decisions quickly."
+    "With a spirit of collaboration, creativity, and unparalleled technical acumen, GridVisibility’s mission is to solve the hardest grid reliability, resiliency, and security challenges in generations, by providing high fidelity, low latency, holistic GridVisibility to energy professionals on the front lines. Come with us as we transform the change the world together!"
 
 funfacts:
   title: Fun facts about us
   lists:
     - icon: FaJetFighter
-      value: 80
+      value: 90
       unit: "%"
-      content: "Spend 80% less time <br /> on admin"
+      content: "We can reach 90% of US <br /> today"
 
     - icon: FaCircleDot
-      value: 40
+      value: 30
       unit: x
-      content: "Attract 40x more <br /> the candidate"
+      content: "Capture value 30x faster <br /> than BAU"
 
     - icon: FaDice
-      value: 83
+      value: 95
       unit: "%"
-      content: "Reduce recruitment <br /> agency spend"
+      content: "Reduce internal <br /> implementation risk "
       
     - icon: FaDiceD6
-      value: 40
-      unit: "%"
-      content: "Make hires 40% <br /> faster"
+      value: 100
+      unit: "ms"
+      content: "Data sensing-to-user in <br /> 100 millisecs"
 
 services:
-  - title: We care about <br />your customers
-    description: Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada praesent.
+  - title: "We care about <br />your use cases"
+    description: Making data actionable is essential. Every use case is different. 
     icon: FaFileSignature
 
-  - title: Your design patner now <br />and in the fiture
-    description: Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada praesent.
+  - title: "Your design partner now <br />and in the future"
+    description: GridVisibility's value depends on our close customer partnerships. We're with you.
     icon: FaHandshakeAngle
 
-  - title: Around the clock <br /> support from day one
-    description: Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada praesent.
+  - title: "Personalized <br />support from day one"
+    description: We know what we've built is critical path for you and your grid. We've got your back every step of the way. 
     icon: FaHeadphones
 
 
 # office_culture
 office_culture:
   enable: true
-  title: "Our Office Culture"
-  content: "Create a best strategic tool, share it with your team and ensure it’s on track with intuitive dashboards."
+  title: "GridVisibility's Culture"
+  content: "At GridVisibility, we believe in respect, honesty, hard work, humanity, and fun."
   images:
   - image: "/images/office-culture/1.webp"
   - image: "/images/office-culture/2.webp"
