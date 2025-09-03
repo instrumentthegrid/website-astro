@@ -30,12 +30,12 @@ lists:
 funfacts:
   title: Fun facts about us
   lists:
-    - icon: FaJetFighter
+    - icon: FaMapLocationDot
       value: 90
       unit: "%"
       content: "We can reach 90% of US <br /> today"
 
-    - icon: FaCircleDot
+    - icon: FaChartSimple
       value: 30
       unit: x
       content: "Capture value 30x faster <br /> than BAU"
@@ -45,7 +45,7 @@ funfacts:
       unit: "%"
       content: "Reduce internal <br /> implementation risk "
       
-    - icon: FaDiceD6
+    - icon: FaJetFighter
       value: 100
       unit: "ms"
       content: "Data sensing-to-user in <br /> 100 millisecs"
@@ -61,7 +61,7 @@ services:
 
   - title: "Personalized <br />support from day one"
     description: We know what we've built is critical path for you and your grid. We've got your back every step of the way. 
-    icon: FaHeadphones
+    icon: FaHeadset
 
 
 # office_culture
