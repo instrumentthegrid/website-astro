@@ -17,15 +17,15 @@ goal:
 
 lists:
   - title: Who we are?
-    description: "We are a seasoned team of innovators, technologists, communications and utility experts. The founders, Scott Caruso and Steve Glennon, worked for over seven years together at CableLabs developing the GridVisibility Platform. In 2024, we acquired a license to the patented technology, and formally launched GridVisibility, inc. in January 2025."
+    description: "We are a seasoned team of innovators, technologists, communications and utility experts. The founders, Scott Caruso and Steve Glennon, worked for over seven years together at CableLabs developing the GridVisibility Platform. In 2024, we acquired a license to the patented technology, and formally launched GridVisibility, inc. in January 2025.
     <br />
     <br />
-    "This extraordinary team includes Mike Walker (former NERC and National Grid USA executive), Matt Burks (former Chief Strategy Officer at E Source), and Ralph Brown (former CTO at CableLabs)."
+    This extraordinary team includes Mike Walker (former NERC and National Grid USA executive), Matt Burks (former Chief Strategy Officer at E Source), and Ralph Brown (former CTO at CableLabs)."
   - title: Our mission
-    description: "It is extremely rare to discover a solution that will fundamentally transform the world, along with a team that can do it. In these changing times, GridVisibility provides a common sense, yet paradigm shifting, solution for grid monitoring and operations."
+    description: "It is extremely rare to discover a solution that will fundamentally transform the world, along with a team that can do it. In these changing times, GridVisibility provides a common sense, yet paradigm shifting, solution for grid monitoring and operations.
     <br />
     <br />
-    "With a spirit of collaboration, creativity, and unparalleled technical acumen, GridVisibility’s mission is to solve the hardest grid reliability, resiliency, and security challenges in generations, by providing high fidelity, low latency, holistic GridVisibility to energy professionals on the front lines. Come with us as we transform the change the world together!"
+    With a spirit of collaboration, creativity, and unparalleled technical acumen, GridVisibility’s mission is to solve the hardest grid reliability, resiliency, and security challenges in generations, by providing high fidelity, low latency, holistic GridVisibility to energy professionals on the front lines. Come with us as we transform the change the world together!"
 
 funfacts:
   title: Fun facts about us

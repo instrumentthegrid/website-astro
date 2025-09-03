@@ -92,8 +92,8 @@ services:
 
 # Integrate
 integrate:
-  - title: Supplement the Tools Your Teams Already Use.
-    content: We built our flexible web interface and API-native solution to augment and support all current grid data, monitoring, and operational applications. However, we're also developing and supporting completely new analytic and continuous insight and integration paradigms. Because we've already "done the impossible", we must support both the "current" and "next generation" grid monitoring and management paths.
+  title: Supplement the Tools Your Teams Already Use.
+  content: "We built our flexible web interface and API-native solution to augment and support all current grid data, monitoring, and operational applications. However, we're also developing and supporting completely new analytic and continuous insight and integration paradigms. Because we've already \"done the impossible\", we must support both the \"current\" and \"next generation\" grid monitoring and management paths."
   image: "/images/cta.png"
   tools:
     - /images/tools/1.webp
@@ -107,8 +107,8 @@ integrate:
 # Annoucement
 annoucement:
   image: /images/announcement.png
-  - title: Ready to Take the "Red Pill"? Let's Set Up a Demo.
-    description: We've found the best way to fully grasp what we're doing is to demo...live. That's when people realize high fidelity, low latency, and continuous distribution grid data changes everything!
+  title: Ready to Take the "Red Pill"? Let's Set Up a Demo.
+  description: We've found the best way to fully grasp what we're doing is to demo...live. That's when people realize high fidelity, low latency, and continuous distribution grid data changes everything!
   button:
     label: "Request Demo"
     link: "/contact"
