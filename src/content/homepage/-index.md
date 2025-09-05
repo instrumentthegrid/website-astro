@@ -27,6 +27,7 @@ brands_images:
     - image: /images/brands/morsemicrologo.webp
       alt: MorseMicro
     - image: /images/brands/microsoft.webp
+      alt: Microsoft
 
 # feature
 feature:
