@@ -55,15 +55,15 @@ export const about = defineCollection({
           image: z.string(),
         }),
       ),
-      join_our_team: z.object({
-        title: z.string(),
-        content: z.string(),
-        button: z.object({
-          enable: z.boolean(),
-          label: z.string(),
-          link: z.string(),
-        }),
-      }),
+      // join_our_team: z.object({
+      //   title: z.string(),
+      //   content: z.string(),
+      //   button: z.object({
+      //     enable: z.boolean(),
+      //     label: z.string(),
+      //     link: z.string(),
+      //   }),
+      // }),
     }),
   }),
 });

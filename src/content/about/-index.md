@@ -74,4 +74,12 @@ office_culture:
   - image: "/images/office-culture/2.webp"
   - image: "/images/office-culture/3.webp"
   - image: "/images/office-culture/4.webp"
+
+  # join_our_team:
+  #   title : "Want to Join our Team?"
+  #   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat eget amtempus eu at consecttur."
+  #   button:
+  #     enable : true
+  #     label : "View open Positions"
+  #     link : "careers"
 ---
