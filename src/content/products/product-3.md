@@ -8,10 +8,10 @@ icon: FaHouseLaptop
 
 # Banner
 banner:
-  title: "National & Regional: Geographically Unconstrained Paradigm Shift"
+  title: "National & Regional: <br> A New Paradigm"
   has_color: false
-  image: "/images/products/2.webp"
-  content : "GridVisibility is not constrained by traditional municipal, utility, or even state service territories and boundaries. Our broadband footprint provides us with cost efficient and rapid path to holistic state, regional, and/or national GridVisibility. Imagine the benefits."
+  image: "/images/products/banner1.png"
+  content : "GridVisibility is not constrained by traditional municipal, utility, or even state service territories/boundaries. Our broadband infrastructure approach provides a cost efficient and path to holistic, wide-area AND high fidelity state, regional, and national GridVisibility. It's a completely new paradigm."
   background_class: "bg-light"
   button:
     enable : true
@@ -23,25 +23,25 @@ banner:
 product_info:
   enable : true
   title: "Just Imagine <br> The Possibilities"
-  content: "Whether predicting storm severity based on real-world data eight states prior "
+  content: "Whether building a high fidelity FNET 2.0, a regional storm assessment and preparation network, emergency and disaster awareness and response, or an out-of-band distribution grid cybersecurity monitoring platform...the impossible is now possible. Removing geographic boundaries opens up a fundamentally new paradigm. Let's talk scale!"
   features:
   - image: "/images/products/banner1.png"
-    content : "#### For Marketing Teams
+    content : "#### FNET 2.0: High Fidelity Wide-Area Monitoring System
 
 
-    Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. tempus eu at consecttur.
+    GridVisibility can rapidly retrofit the existing US broadband system to provide continuous, high fidelity, wide-area monitoring system (WAMS) for the electric power grid. Our existing stategic partners enable us to access over 600,000 broadband nodes capable of measuring grid frequency, voltage, and phase angle from the medium voltage distribution system. Our sensor network can provide local, state, regional, and national situational awareness and blackout prevention data and analysis.
 
     
 
 
 
-    #### For Product & Engineering
+    #### Emergency and Disaster Awareness & Response
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.
     "
 
-  - image: "/images/products/2.webp"
-    content : "##### For Design Teams
+  - image: "/images/products/banner1.png"
+    content : "##### Grid Cybersecurity: Out-of-band distribution grid monitoring
 
 
     Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. tempus eu at consecttur.
@@ -51,7 +51,7 @@ product_info:
 
 
 
-    #### For Search Engine Optimization
+    #### Emergency and Disaster Awareness
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.
     "
