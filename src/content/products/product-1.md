@@ -6,77 +6,81 @@ draft: false
 icon: FaUsers
 # Banner
 banner:
-  title: "Customer Relationship Management"
+  title: "Transmission: Distribution Grid Visibility...Today."
   has_color: true
-  image: "/images/products/1.webp"
-  content : "Create a best strategic tool, share it with your team and ensure it’s on track with intuitive dashboards. Simple enough with the sophistication and flexibility to meet the needs"
+  image: "/images/products/banner1.png"
+  content : "GridVisibility provides paradigm shifting situational awareness across the entire distribution grid. GVP enables the next generation of FERC & NERC IBR-related regulatory compliance, model valiation & event analysis."
   button:
     enable : true
-    label : "Try for Free"
+    label : "Request Demo"
     link : "get-demo/"
 
 # About This Product
 about_this_product:
   enable: true
-  title: "CRM for every business, <br> for every industry"
-  content: "CRM brings the best of general-purpose solutions and vertical solutions under one roof. We're empowering you to redesign the user interface of the CRM, and create a personalized instance that meets your specific requirements and preferences"
+  title: "Significantly Enhance Your Visibility of <br> of Today's Dynamic Grid."
+  content: "GridVisibility delivers a proven solution for continuous monitoring and state-of-the-grid visibility. Utilizing existing broadband infrastructure, the GridVisibility Platform (GVP) provides high fidelity, time synchronized data that enhances the utility's ability to drive improved grid reliability and resiliency."
 
   features:
-  - title: "Omnichannel Communication"
-    icon: FaTty
-    content: "**Connect with your customers wherever they are**
+  - title: "Transmission Compliance & Reporting"
+    icon: FaArrowsRotate
+    content: "**Imagine you have low latency, all-the-time electrical data, enabling unprecedented visibility and situation awareness of distribution grid behaviors. **
 
 
-    Multiple channels, one platform for communication. Customers have more ways to interact with businesses than ever before.
+    Multiple distribution grids, one platform...paradigm shifting situational awareness across the entire grid..
     
-    * Reach customers across every channel: telephone, email, live chat, and social media
+    * RIBR-related NERC compliance and reporting
 
-    * Get real-time notifications when customers interact with your business
+    * Model validation
 
-    * Measure the effectiveness of your customer communication and find the best time and channel to reach out to your customers
+    * Event analysis
+
+    * Situational analysis
+
+    * Transmission contingency planning
     "
 
-  - title: "Real Time Reports"
-    icon: FaArrowsRotate
-    content: "**Get real-time reports and insights**
+  - title: "Low-latency Transmission Awareness"
+    icon: FaTty
+    content: "**Imagine you have continuous awareness of grid conditions & behaviors.**
 
-    Create customized dashboards with analytical widgets for sales, such as charts, target meters, KPIs, and funnels.
+    GridVisibility's low-cost broadband UPS retrofit enables immediate high-fidelity grid voltage and frequency monitoring 24/7/365 at scale. Grid management...not models.
     
-    - Make smarter business decisions with powerful, real-time analytics
+    - Frequency & ROCOF monitoring
 
-    - Measure and manage your organization’s territory-wide sales performance
+    - Inter-area & wide-area oscillation
 
-    - Track key performance indicators, including current trends and future predictions
+    - Regional voltage signal/real-time benchmark
     "
 
       
 # Product Info
 product_info:
   enable : true
-  title: "New experiments <br> Launch in minutes"
-  content: "Both non-technical and technical users can design and launch new experiments quickly. Distinctio cumque totam explicabo, quia minima quae esse! Laudantium impedit ratione dignissimos."
+  title: "Rapid Impact:<br> Time-to-insight in weeks, not years."
+  content: "A wide range of utility users can leverage the GVP platform for THEIR needs. GVP's user-designed web interface, ad hoc data downloads, and API-native data delivery capabilities enable every type of workflow integration."
   features:
-  - image: "/images/products/1.webp"
-    content : "#### For Marketing Teams
+  - image: "/images/products/banner1.png"
+    content : "#### For Transmission Compliance Teams
 
 
     Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. tempus eu at consecttur.
 
 
 
-    #### For Product & Engineering
+    #### For Transmission Planning
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.
     "
 
-  - image: "/images/products/2.webp"
-    content : "#### For Design Teams
+  - image: "/images/products/banner1.png"
+    content : "#### For Transmission Operations Teams
 
 
     Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. tempus eu at consecttur.
 
 
-    #### For Search Engine Optimization
+    #### For Transmission Engineering
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.
     "
@@ -85,10 +89,10 @@ product_info:
 # Intro Video
 intro_video:
   enable: true
-  title: "Check out our video preview"
-  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  title: "See how GridVisibility Impacts Transmission"
+  content: "Adding GVP's high-fidelity data to your suite of system monitoring tools significantly enhances your visibility of an increasingly dynamic grid."
   video_id: "dyZcRRWiuuw"
-  video_thumbnail: "/images/products/2.webp"
+  video_thumbnail: "/images/products/banner1.png"
   background_class: ""
 
       
@@ -96,36 +100,21 @@ intro_video:
 services:
   enable : true
   block:
-  - title : "It is the most advanced digital marketing company."
+  - title : "GridVisibility is the most advanced distribution grid monitoring solution today."
     slider_images:
     - "/images/services/service-1.png"
     - "/images/services/service-2.png"
     - "/images/services/service-3.png"
-    description : "Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      
-  - title : "It is a privately owned Information and cyber security company"
-    slider_images:
-    - "/images/services/service-1.png"
-    description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      
-  - title : "It’s a team of experienced and skilled people with distributions"
-    slider_images:
-    - "/images/services/service-2.png"
-    description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-      
-  - title : "A company standing different from others"
-    slider_images:
-    - "/images/services/service-3.png"
-    description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-
+    description : "Don't take our word for it though...“Limited visibility of the distribution system beyond the substation, enormous costs to deploy distribution-level monitoring systems including phasor measurements units (PMUs), and the prevalence of DERs and grid-edge technologies in Vermont makes GVP a uniquely effective solution and important long-term partner.” (Elevate Energy Consulting)
+    "
       
 #CTA
 call_to_action:
   enable : true
-  title: Start accelerating your strategy’s effectiveness, today.
-  description: For a limited time, you get UNLIMITED users & all the features available inside the platform!
+  title: Shift Your Transmission Monitoring & Management Paradigm. Today.
+  description: Learn about GridVisibility's proven solution for continuous monitoring and state-of-the-grid visibility!
   button:
-    label: "Contact Us"
+    label: "Request Demo"
     link: "/contact"
     enable: true
 

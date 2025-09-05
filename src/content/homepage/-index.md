@@ -17,7 +17,7 @@ brands_images:
     - image: /images/brands/comcastlogo.png
       alt: Comcast
     - image: /images/brands/velcologo.webp
-      alt: Velcro
+      alt: Velco
     - image: /images/brands/veclogo.webp
       alt: VEC
     - image: /images/brands/elevatelogo.webp
@@ -27,17 +27,6 @@ brands_images:
     - image: /images/brands/morsemicrologo.webp
       alt: MorseMicro
     - image: /images/brands/microsoft.webp
-      alt: Microsoft
-    - image: /images/brands/elevatelogo.png
-      alt: Hubspot
-    - image: /images/brands/softstuflogo.png
-      alt: TOSHIBA
-    - image: /images/brands/microsoftlogo.png
-      alt: aribnb
-    - image: /images/brands/facebook.webp
-      alt: facebook
-    - image: /images/brands/tinder.webp
-      alt: tinder
 
 # feature
 feature:

@@ -1,7 +1,7 @@
 ---
-title: "Case Studies"
-subtitle: "Read our Case Studies"
+title: "White Papers"
+subtitle: "Request our GridVisibility white papers."
 # meta description
-description: "Read our Case Studies"
+description: "Read our GridVisibility white papers"
 draft: false
 ---

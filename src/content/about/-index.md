@@ -38,7 +38,7 @@ funfacts:
     - icon: FaChartSimple
       value: 30
       unit: x
-      content: "Capture value 30x faster <br /> than BAU"
+      content: "Capture value 30x faster <br /> than business-as-usual"
 
     - icon: FaDice
       value: 95
@@ -48,14 +48,14 @@ funfacts:
     - icon: FaJetFighter
       value: 100
       unit: "ms"
-      content: "Data sensing-to-user in <br /> 100 millisecs"
+      content: "Grid sensing to your screen in <br /> 100 millisecs"
 
 services:
   - title: "We care about <br />your use cases"
     description: Making data actionable is essential. Every use case is different. 
     icon: FaFileSignature
 
-  - title: "Your design partner now <br />and in the future"
+  - title: "Your value creation partner now <br />and in the future"
     description: GridVisibility's value depends on our close customer partnerships. We're with you.
     icon: FaHandshakeAngle
 
@@ -68,20 +68,10 @@ services:
 office_culture:
   enable: true
   title: "GridVisibility's Culture"
-  content: "At GridVisibility, we believe in respect, honesty, hard work, humanity, and fun."
+  content: "At GridVisibility, we believe in respect, honesty, collaboration, and hard work."
   images:
   - image: "/images/office-culture/1.webp"
   - image: "/images/office-culture/2.webp"
   - image: "/images/office-culture/3.webp"
   - image: "/images/office-culture/4.webp"
-  - image: "/images/office-culture/5.webp"
-  - image: "/images/office-culture/6.webp"
-
-  join_our_team: 
-    title : "Want to Join our Team?"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat eget amtempus eu at consecttur."
-    button:
-      enable : true
-      label : "View open Positions"
-      link : "careers"
 ---

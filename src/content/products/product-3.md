@@ -1,5 +1,5 @@
 ---
-title: "Workplace"
+title: "Imagine No Boundaries"
 description: "Application built to improve productivity"
 date: "2021-07-12"
 draft: false
@@ -8,24 +8,24 @@ icon: FaHouseLaptop
 
 # Banner
 banner:
-  title: "Workplace"
+  title: "National & Regional: Geographically Unconstrained Paradigm Shift"
   has_color: false
   image: "/images/products/2.webp"
-  content : "Create a best strategic tool, share it with your team and ensure it’s on track with intuitive dashboards. Simple enough with the sophistication and flexibility to meet the needs"
+  content : "GridVisibility is not constrained by traditional municipal, utility, or even state service territories and boundaries. Our broadband footprint provides us with cost efficient and rapid path to holistic state, regional, and/or national GridVisibility. Imagine the benefits."
   background_class: "bg-light"
   button:
     enable : true
-    label : "Try for Free"
+    label : "Let's Talk Scale"
     link : "get-demo/"
 
       
 # Product Info
 product_info:
   enable : true
-  title: "New experiments <br> Launch in minutes"
-  content: "Both non-technical and technical users can design and launch new experiments quickly. Distinctio cumque totam explicabo, quia minima quae esse! Laudantium impedit ratione dignissimos."
+  title: "Just Imagine <br> The Possibilities"
+  content: "Whether predicting storm severity based on real-world data eight states prior "
   features:
-  - image: "/images/products/1.webp"
+  - image: "/images/products/banner1.png"
     content : "#### For Marketing Teams
 
 
