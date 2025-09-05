@@ -23,7 +23,7 @@ about_this_product:
 
   features:
   - title: "Transmission Compliance & Reporting"
-    icon: FaArrowsRotate
+    icon: FaFileSignature
     content: "**Imagine you have low latency, all-the-time electrical data, enabling unprecedented visibility and situation awareness of distribution grid behaviors. **
 
 
@@ -41,7 +41,7 @@ about_this_product:
     "
 
   - title: "Low-latency Transmission Awareness"
-    icon: FaTty
+    icon: FaGauge
     content: "**Imagine you have continuous awareness of grid conditions & behaviors.**
 
     GridVisibility's low-cost broadband UPS retrofit enables immediate high-fidelity grid voltage and frequency monitoring 24/7/365 at scale. Grid management...not models.
@@ -108,7 +108,7 @@ services:
     description : "Don't take our word for it though...“Limited visibility of the distribution system beyond the substation, enormous costs to deploy distribution-level monitoring systems including phasor measurements units (PMUs), and the prevalence of DERs and grid-edge technologies in Vermont makes GVP a uniquely effective solution and important long-term partner.” (Elevate Energy Consulting)
     "
       
-#CTA
+# CTA
 call_to_action:
   enable : true
   title: Shift Your Transmission Monitoring & Management Paradigm. Today.
