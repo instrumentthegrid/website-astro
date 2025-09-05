@@ -26,19 +26,19 @@
           "name": "Transmission",
           "description": "Transmission Utility Use Cases",
           "url": "/products/product-1",
-          "icon": "FaUsers"
+          "icon": "FaBolt"
         },
         {
           "name": "Distribution",
           "description": "Distribution Utility Use Cases",
           "url": "/products/product-2",
-          "icon": "FaDiceD6"
+          "icon": "FaPlug"
         },
         {
           "name": "National & Regional",
           "description": "National & Regional Gov't Use Cases",
           "url": "/products/product-3",
-          "icon": "FaHouseLaptop"
+          "icon": "FaMapLocationDot"
         }
       ]
 
