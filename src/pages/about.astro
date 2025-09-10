@@ -10,7 +10,7 @@ const aboutIndex = (await getEntry(
   "about",
   "-index"
 )) as CollectionEntry<"about">;
-const { about, funfacts, goal, lists, office_culture, services } =
+const { about, funfacts, goal, lists, services } =
   aboutIndex.data;
 ---
 
@@ -118,58 +118,4 @@ const { about, funfacts, goal, lists, office_culture, services } =
     </div>
   </section>
 
-  {
-    office_culture.enable && (
-      <section class="section bg-body dark:bg-darkmode-body">
-        <div class="container">
-          <div class="row gy-4 justify-center">
-            <div class="xl:col-3 lg:col-4 sm:col-6">
-              <h2 set:html={markdownify(office_culture.title)} />
-              <p set:html={markdownify(office_culture.content)} />
-            </div>
-
-            {office_culture.images.map((item, index) => {
-              const isEven = (index + 1) % 2 === 0;
-              const className = !isEven
-                ? "xl:col-3 lg:col-4 sm:col-6"
-                : "sm:col-6";
-
-              return (
-                <div class={`${className}`}>
-                  <img
-                    class="rounded-sm w-full h-full object-cover"
-                    width={500}
-                    height={500}
-                    src={item.image}
-                    alt="office-culture-image"
-                  />
-                </div>
-              );
-            })}
-
-            {/* <div class="xl:col-5 lg:col-10 self-center mx-auto">
-              <div>
-                <h2
-                  class="mb-4"
-                  set:html={markdownify(office_culture.join_our_team.title)}
-                />
-                <p
-                  class="mb-3"
-                  set:html={markdownify(office_culture.join_our_team.content)}
-                />
-                {office_culture.join_our_team.button.enable && (
-                  <a
-                    href={office_culture.join_our_team.button.link}
-                    class="btn flex-none inline-block btn-outline-primary text-center"
-                  >
-                    {office_culture.join_our_team.button.label}
-                  </a>
-                )}
-              </div>
-            </div> */}
-          </div>
-        </div>
-      </section>
-    )
-  }
 </Base>

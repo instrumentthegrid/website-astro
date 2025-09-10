@@ -46,15 +46,15 @@ export const about = defineCollection({
         icon: z.string(),
       }),
     ),
-    office_culture: z.object({
-      enable: z.boolean(),
-      title: z.string(),
-      content: z.string(),
-      images: z.array(
-        z.object({
-          image: z.string(),
-        }),
-      ),
+    // office_culture: z.object({
+    //   enable: z.boolean(),
+    //   title: z.string(),
+    //   content: z.string(),
+    //   images: z.array(
+    //     z.object({
+    //       image: z.string(),
+    //     }),
+    //   ),
       // join_our_team: z.object({
       //   title: z.string(),
       //   content: z.string(),
@@ -64,7 +64,7 @@ export const about = defineCollection({
       //     link: z.string(),
       //   }),
       // }),
-    }),
+    // }),
   }),
 });
 
