@@ -63,18 +63,6 @@ services:
     description: We know what we've built is critical path for you and your grid. We've got your back every step of the way. 
     icon: FaHeadset
 
-
-# office_culture
-office_culture:
-  enable: true
-  title: "GridVisibility's Culture"
-  content: "At GridVisibility, we believe in respect, honesty, collaboration, and hard work."
-  images:
-  - image: "/images/office-culture/1.webp"
-  - image: "/images/office-culture/2.webp"
-  - image: "/images/office-culture/3.webp"
-  - image: "/images/office-culture/4.webp"
-
   # join_our_team:
   #   title : "Want to Join our Team?"
   #   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat eget amtempus eu at consecttur."

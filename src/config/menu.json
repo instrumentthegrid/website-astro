@@ -35,10 +35,7 @@
           "icon": "FaPlug"
         },
         {
-          "name": "National & Regional",
-          "description": "National & Regional Gov't Use Cases",
-          "url": "/products/product-3",
-          "icon": "FaMapLocationDot"
+    
         }
       ]
 
@@ -88,8 +85,7 @@
           "url": "/products/product-2"
         },
         {
-          "name": "National & State",
-          "url": "/products/product-3"
+       
         }
       ]
     },
