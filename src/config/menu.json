@@ -33,9 +33,6 @@
           "description": "Distribution Utility Use Cases",
           "url": "/products/product-2",
           "icon": "FaPlug"
-        },
-        {
-    
         }
       ]
 
@@ -83,9 +80,6 @@
         {
           "name": "Distribution",
           "url": "/products/product-2"
-        },
-        {
-       
         }
       ]
     },
