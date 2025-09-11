@@ -79,18 +79,18 @@ services:
       - /images/services/service-3.png
 
 # Integrate
-integrate:
-  title: Supplement the Tools Your Teams Already Use.
-  content: We built our flexible web interface and API-native solution to augment and support all current grid data, monitoring, and operational applications. However, we're also developing and supporting completely new analytic and continuous insight and integration paradigms. Because we've already "done the impossible", we must support both the "current" and "next generation" grid monitoring and management paths.
-  image: "/images/cta.png"
-  tools:
-    - /images/tools/1.webp
-    - /images/tools/2.webp
-    - /images/tools/3.webp
-    - /images/tools/4.webp
-    - /images/tools/5.webp
-    - /images/tools/6.webp
-    - /images/tools/8.webp
+# integrate:
+#   title: Supplement the Tools Your Teams Already Use.
+#   content: We built our flexible web interface and API-native solution to augment and support all current grid data, monitoring, and operational applications. However, we're also developing and supporting completely new analytic and continuous insight and integration paradigms. Because we've already "done the impossible", we must support both the "current" and "next generation" grid monitoring and management paths.
+#   image: "/images/cta.png"
+#   tools:
+#     - /images/tools/1.webp
+#     - /images/tools/2.webp
+#     - /images/tools/3.webp
+#     - /images/tools/4.webp
+#     - /images/tools/5.webp
+#     - /images/tools/6.webp
+#     - /images/tools/8.webp
 
 # Annoucement
 annoucement:

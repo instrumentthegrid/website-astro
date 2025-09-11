@@ -249,12 +249,12 @@ export const homepage = defineCollection({
         slider_images: z.array(z.string()),
       }),
     ),
-    integrate: z.object({
-      title: z.string(),
-      content: z.string(),
-      image: z.string(),
-      tools: z.array(z.string()),
-    }),
+    // integrate: z.object({
+    //   title: z.string(),
+    //   content: z.string(),
+    //   image: z.string(),
+    //   tools: z.array(z.string()),
+    // }),
     annoucement: z.object({
       image: z.string(),
       title: z.string(),
