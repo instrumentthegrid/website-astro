@@ -5,8 +5,8 @@ image: "/images/avatar.png"
 draft: false
 
 about:
-  title: Paradigm Shifting GridVisibility
-  description: "After developing and incubating our technology within CableLabs (the global broadband R&D leader), we closely collaborated with key industry constituents, like Comcast and Charter, to bring this paradigm shifting solution to market. GridVisibility harnesses the broadband industry’s existing communication network assets to solve one of THE biggest grid challenges today - how to provide real-time awareness of the state of the distribution grid, cost efficiently, rapidly and at scale...now."
+  title: Imagine - The Grid Visibility Manifesto
+  description: "Paradigm Shifting GridVisibility - About us and the outcome of working with US. Rapid, low-latency feedback tranforms. Why is this paradigm shifting and what does that mean. People are making decisions today based on inhereted constraints. Can't imagine unlimited bandwidth that is ubiquitous, available, accessible, etc. Just imagine how you can transformt he monitoring and mangement of the grid. Imagine a constant grid signal for VPP, DR, etc. Join us... We're more than 1-minute data. I've never seen. I didn't think this was possible. Continuous Point on Wave, NOT snippets. Note 2 - 3 seconds of an event. Let's look 5 minutes before...because we can. We're always there. That's the essence of the change we are bringing to the industry. Let us show you. GridVisibility harnesses the broadband industry’s existing communication network assets to solve one of THE biggest grid challenges today - how to provide real-time awareness of the state of the distribution grid, cost efficiently, rapidly and at scale...now."
   image: /images/about/about.webp
 
 goal:
@@ -41,28 +41,41 @@ funfacts:
       content: "Capture value 30x faster <br /> than business-as-usual"
 
     - icon: FaDice
-      value: 95
+      value: 0
       unit: "%"
-      content: "Reduce internal <br /> implementation risk "
+      content: "Involvement of utility IT & field crews "
       
     - icon: FaJetFighter
       value: 100
       unit: "ms"
-      content: "Grid sensing to your screen in <br /> 100 millisecs"
+      content: "Grid awareness to your screen in <br /> 100 millisecs"
 
 services:
-  - title: "We care about <br />your use cases"
-    description: Making data actionable is essential. Every use case is different. 
+  - title: "We care about <br />your use case & workflow"
+    description: Making data actionable is essential. We strive to seamlessly integrate GVP into your workflow.  
     icon: FaFileSignature
 
   - title: "Your value creation partner now <br />and in the future"
-    description: GridVisibility's value depends on our close customer partnerships. We're with you.
+    description: GridVisibility's value depends on our engaged customer collaboration. We're with you.
     icon: FaHandshakeAngle
 
   - title: "Personalized <br />support from day one"
     description: We know what we've built is critical path for you and your grid. We've got your back every step of the way. 
     icon: FaHeadset
 
+# office_culture
+office_culture:
+  enable: true
+  title: "GridVisibility's Culture"
+  content: "At GridVisibility, we believe in respect, honesty, hard work, humanity, and fun."
+  images:
+  - image: "/images/office-culture/1.webp"
+  - image: "/images/office-culture/2.webp"
+  - image: "/images/office-culture/3.webp"
+  - image: "/images/office-culture/4.webp"
+  - image: "/images/office-culture/5.webp"
+  - image: "/images/office-culture/6.webp"
+  
   # join_our_team:
   #   title : "Want to Join our Team?"
   #   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat eget amtempus eu at consecttur."

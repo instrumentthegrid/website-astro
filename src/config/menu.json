@@ -38,7 +38,7 @@
 
     },
     {
-      "name": "Pages",
+      "name": "Resources",
       "hasChildren": true,
       "children": [
         {
@@ -46,8 +46,6 @@
           "url": "/case-study"
         },
         {
-          "name": "FAQ",
-          "url": "/faq"
         }
       ]
     },

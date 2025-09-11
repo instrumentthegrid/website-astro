@@ -1,7 +1,7 @@
 ---
-title: "CRM"
-description: "For great customer relationships"
-date: "2021-07-14"
+title: "Transmission: Distribution Grid Visibility...Today"
+description: "GridVisibility provides paradigm shifting situational awareness across the entire distribution grid."
+date: "2025-08-01"
 draft: false
 icon: FaUsers
 # Banner
