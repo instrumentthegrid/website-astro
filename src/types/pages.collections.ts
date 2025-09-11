@@ -236,12 +236,12 @@ export const homepage = defineCollection({
         }),
       ),
     }),
-    workflow: z.object({
-      title: z.string(),
-      description: z.string(),
-      image: z.string(),
-      video_id: z.string(),
-    }),
+    // workflow: z.object({
+    //   title: z.string(),
+    //   description: z.string(),
+    //   image: z.string(),
+    //   video_id: z.string(),
+    // }),
     services: z.array(
       z.object({
         title: z.string(),

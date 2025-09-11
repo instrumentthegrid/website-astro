@@ -50,12 +50,12 @@ feature:
       icon: "FaBinoculars"
       content: Dashboards providing continuous, low-latency feedback, 365/24/7, encompassing utility defined alerts.
 
-# workflow
-workflow:
-  title: Not More Data. Continuous & Holistic Grid Insight!
-  description: Independent & secure continuous awareness of grid conditions and behaviors.
-  image: /images/video-popup.webp
-  video_id: "dyZcRRWiuuw"
+# # workflow
+# workflow:
+#   title: Not More Data. Continuous & Holistic Grid Insight!
+#   description: Independent & secure continuous awareness of grid conditions and behaviors.
+#   image: /images/video-popup.webp
+#   video_id: "dyZcRRWiuuw"
 
 #Services
 services:
