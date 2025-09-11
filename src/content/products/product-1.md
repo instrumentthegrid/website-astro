@@ -4,6 +4,7 @@ description: "GridVisibility provides paradigm shifting situational awareness ac
 date: "2025-08-01"
 draft: false
 icon: FaUsers
+
 # Banner
 banner:
   title: "Transmission: Distribution Grid Visibility...Today."
@@ -24,12 +25,12 @@ about_this_product:
   features:
   - title: "Transmission Compliance & Reporting"
     icon: FaFileSignature
-    content: "**Imagine you have low latency, all-the-time electrical data, enabling unprecedented visibility and situation awareness of distribution grid behaviors. **
+    content: "Imagine having low latency, all-the-time electrical data, enabling unprecedented visibility and situation awareness of distribution grid behaviors.
 
 
-    Multiple distribution grids, one platform...paradigm shifting situational awareness across the entire grid..
+    Multiple distribution grids, one platform...suppyling consistent, time synchronized situational awareness across the entire grid..
     
-    * RIBR-related NERC compliance and reporting
+    * IBR-related NERC compliance and reporting
 
     * Model validation
 
@@ -42,16 +43,15 @@ about_this_product:
 
   - title: "Low-latency Transmission Awareness"
     icon: FaGauge
-    content: "**Imagine you have continuous awareness of grid conditions & behaviors.**
+    content: "Imagine having continuous awareness of grid conditions & behaviors.
 
-    GridVisibility's low-cost broadband UPS retrofit enables immediate high-fidelity grid voltage and frequency monitoring 24/7/365 at scale. Grid management...not models.
+    GridVisibility's low-cost broadband UPS retrofit enables immediate, high-fidelity grid voltage and frequency monitoring 24/7/365 at scale.
     
     - Frequency & ROCOF monitoring
 
     - Inter-area & wide-area oscillation
 
-    - Regional voltage signal/real-time benchmark
-    "
+    - Continuous low-latency feedback for transmission operations"
 
       
 # Product Info
