@@ -6,15 +6,15 @@ draft: false
 
 about:
   title: Just Imagine...
-  description: "Imagine how different grid monitoring and management would be if today’s constraints didn’t exist. Imagine a high fidelity, low latency, and continuous point-on-wave grid signal with unlimited bandwidth…all the time…everywhere. Not one-minute data, but millisecond data. Not three second event snippets, but on demand raw data as far back as you want to go. Imagine looking five minutes before an event because you have a hunch there is pattern?
+  description: "Imagine how different grid monitoring and management would be if today’s constraints didn’t exist. Imagine a high fidelity, low latency, and continuous point-on-wave grid signal with unlimited bandwidth…all the time…everywhere. Not one-minute data, but millisecond data. Not three second event snippets, but on demand raw data as far back as you want to go. Imagine looking five minutes before an event because you have a hunch there is pattern? 
   It would change EVERYTHING! And you don't have to imagine it, because it exists today."
   image: /images/about/GV_WebsitePics_Various_8.png
-
+  
 goal:
   name: Kyle Thomas
   description: "'With GVP’s sensors and platform offering fast deployment and scalability in dense, high-demand areas, this opens up possibilities for numerous applications across transmission and distribution: supporting real-time distribution operations and planning, DER integration, improved grid performance monitoring, and better transmission system modeling and model validation to understand the rapidly evolving distribution system and its impact on the transmission system in both planning and operations.'"
   avatar: /images/authors/author-1.webp
-  designation: VP of Engineering & Compliance Services -- Elevate Energy Consulting,Inc."
+  designation: VP of Engineering & Compliance Services -- Elevate Energy Consulting, Inc."
 
 lists:
   - title: Who we are?

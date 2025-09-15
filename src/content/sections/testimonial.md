@@ -1,22 +1,22 @@
 ---
 enable: true
 title: Trusted by those you trust
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+description: GridVisibility works closely with respected industry collaborators to help identify and solve today's toughest industry challenges. Here's what they have to say...
 
 # Testimonials
 testimonials:
-  - name: Ryder Stewart
-    designation: Lynch, Marquardt
-    avatar: "/images/authors/author-1.webp"
-    content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs dolor faucibus
+  - name: Kyle Thomas
+    designation: VP of Engineering & Compliance Services - Elevate Energy Consulting, Inc.
+    avatar: "/images/authors/Kyle.png"
+    content: <i>GVP’s sensors and platform offers fast deployment, and scalability and opens possibilities for numerous applications across transmission and distribution; supporting real-time distribution operations and planning, DER integration, improved grid performance monitoring, and better transmission system modeling and model validation to understand the rapidly evolving distribution system and its impact on the transmission system in both planning and operations.<i>
 
-  - name: Ryder Stewart
-    designation: Lynch, Marquardt
-    avatar: "/images/authors/author-2.webp"
-    content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs dolor faucibus
+  - name: Cyril Brunner
+    designation: Innovation & Technology Leader + SLT - Vermont Energy Cooperative (VEC)
+    avatar: "/images/authors/Cyril.png"
+    content: <i>GridVisibility provides reliable, high fidelity data that identifies faults and quantifies the magnitude of power quality issues on the distribution system for our distribution operators.<i>
 
-  - name: Ryder Stewart
-    designation: Lynch, Marquardt
-    avatar: "/images/authors/author-3.webp"
-    content: Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs dolor faucibus
+  - name: Bruce Warmack
+    designation: Electrification and Energy Infrastructures Division - Oak Ridge National Laboratory
+    avatar: "/images/authors/Bruce.png"
+    content: <i>As IBR penetration grows, low-latency communications and high fidelity observability are no longer optional. They become core infrastructure.<i>
 ---
