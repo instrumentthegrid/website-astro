@@ -41,7 +41,7 @@ funfacts:
       unit: x
       content: "Capture value 30x faster <br /> than business-as-usual"
 
-    - icon: FaDice
+    - icon: FaScrewdriverWrench
       value: 0
       unit: "%"
       content: "Involvement of utility IT & field crews "
