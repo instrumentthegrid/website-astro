@@ -1,14 +1,15 @@
 ---
-title: "CRM"
-description: "For great customer relationships"
-date: "2021-07-14"
+title: "Transmission: Distribution Grid Visibility...Today"
+description: "GridVisibility provides paradigm shifting situational awareness across the entire distribution grid."
+date: "2025-08-01"
 draft: false
 icon: FaUsers
+
 # Banner
 banner:
-  title: "Transmission: Distribution Grid Visibility...Today."
+  title: "Transmission: <br> Distribution Grid Visibility...Today."
   has_color: true
-  image: "/images/products/banner1.png"
+  image: "/images/products/GV_WebsitePics_Various_9Color.png"
   content : "GridVisibility provides paradigm shifting situational awareness across the entire distribution grid. GVP enables the next generation of FERC & NERC IBR-related regulatory compliance, model valiation & event analysis."
   button:
     enable : true
@@ -24,12 +25,12 @@ about_this_product:
   features:
   - title: "Transmission Compliance & Reporting"
     icon: FaFileSignature
-    content: "**Imagine you have low latency, all-the-time electrical data, enabling unprecedented visibility and situation awareness of distribution grid behaviors. **
+    content: "Imagine having low latency, all-the-time electrical data, enabling unprecedented visibility and situation awareness of distribution grid behaviors.
 
 
-    Multiple distribution grids, one platform...paradigm shifting situational awareness across the entire grid..
+    Multiple distribution grids, one platform...suppyling consistent, time synchronized situational awareness across the entire grid..
     
-    * RIBR-related NERC compliance and reporting
+    * IBR-related NERC compliance and reporting
 
     * Model validation
 
@@ -42,48 +43,39 @@ about_this_product:
 
   - title: "Low-latency Transmission Awareness"
     icon: FaGauge
-    content: "**Imagine you have continuous awareness of grid conditions & behaviors.**
+    content: "Imagine having continuous awareness of grid conditions & behaviors.
 
-    GridVisibility's low-cost broadband UPS retrofit enables immediate high-fidelity grid voltage and frequency monitoring 24/7/365 at scale. Grid management...not models.
+    GridVisibility's low-cost broadband UPS retrofit enables immediate, high-fidelity grid voltage and frequency monitoring 24/7/365 at scale.
     
     - Frequency & ROCOF monitoring
 
     - Inter-area & wide-area oscillation
 
-    - Regional voltage signal/real-time benchmark
-    "
+    - Continuous low-latency feedback for transmission operations"
 
       
 # Product Info
 product_info:
   enable : true
   title: "Rapid Impact:<br> Time-to-insight in weeks, not years."
-  content: "A wide range of utility users can leverage the GVP platform for THEIR needs. GVP's user-designed web interface, ad hoc data downloads, and API-native data delivery capabilities enable every type of workflow integration."
+  content: "A wide range of utility users can leverage the GVP platform for THEIR needs. GVP's user-designed web interface, ad hoc data downloads, and API-native data delivery capabilities enable critical workflow integrations."
   features:
-  - image: "/images/products/banner1.png"
+  - image: "/images/products/GV_WebsitePics_Various.png"
     content : "#### For Transmission Compliance Teams
 
 
-    Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. tempus eu at consecttur.
+    NERC provides the guidance for assuring reliability of the grid. Their most recent advisory report is explicit in the need for enhanced visibility of the grid. GridVisibility provides the tools to ensure compliance.
 
 
 
     #### For Transmission Planning
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.
-    "
+    Transmission Planning increasingly requires insights about distribution grid behaviors to ensure an accurate representation of operational models. GridVisibility provides distribution grid data at whatever fidelity and time scales are required, including voltage, frequency, rate-of-change of volatage (ROCOV), and rate-of-change of frequency (ROCOF)."
 
-  - image: "/images/products/banner1.png"
-    content : "#### For Transmission Operations Teams
+  - image: "/images/products/GV_WebsitePics_Various_7.png"
+    content : "#### For Transmission Engineering & Operations
 
-
-    Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. tempus eu at consecttur.
-
-
-    #### For Transmission Engineering
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.
-    "
+    GridVisibility provides continuous, low latency, consistent feedback regarding the state of the distrbution grid, reflecting the decisions made by distribution operators."
 
 
 # Intro Video
@@ -92,7 +84,7 @@ intro_video:
   title: "See how GridVisibility Impacts Transmission"
   content: "Adding GVP's high-fidelity data to your suite of system monitoring tools significantly enhances your visibility of an increasingly dynamic grid."
   video_id: "dyZcRRWiuuw"
-  video_thumbnail: "/images/products/banner1.png"
+  video_thumbnail: "/images/products/GV_WebsitePics_Various.png"
   background_class: ""
 
       
@@ -102,9 +94,9 @@ services:
   block:
   - title : "GridVisibility is the most advanced distribution grid monitoring solution today."
     slider_images:
-    - "/images/services/service-1.png"
-    - "/images/services/service-2.png"
-    - "/images/services/service-3.png"
+    - "/images/services/GV_WebsitePics_Various_8.png"
+    - "/images/services/GV_WebsitePics_WaveForm1.png"
+    - "/images/services/GV_WebsitePics_Waveform2.png"
     description : "Don't take our word for it though...“Limited visibility of the distribution system beyond the substation, enormous costs to deploy distribution-level monitoring systems including phasor measurements units (PMUs), and the prevalence of DERs and grid-edge technologies in Vermont makes GVP a uniquely effective solution and important long-term partner.” (Elevate Energy Consulting)
     "
       

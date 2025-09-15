@@ -9,7 +9,7 @@ draft: false
 team_members:
   - name: "Scott Caruso"
     designation: "Co-Founder & CEO"
-    image: "/images/team/team-member-01.webp"
+    image: "/images/team/Scott.png"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -17,7 +17,7 @@ team_members:
 
   - name: "Steve Glennon"
     designation: "Co-Founder & CTO"
-    image: "/images/team/team-member-02.webp"
+    image: "/images/team/Steve.png"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -25,7 +25,7 @@ team_members:
 
   - name: "William Glennon"
     designation: "Software Engineer"
-    image: "/images/team/team-member-03.webp"
+    image: "/images/team/William.png"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -33,7 +33,7 @@ team_members:
 
   - name: "Mike Walker"
     designation: "Operations"
-    image: "/images/team/team-member-04.webp"
+    image: "/images/team/Mike.png"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -41,15 +41,15 @@ team_members:
 
   - name: "Ralph Brown"
     designation: "R&D"
-    image: "/images/team/team-member-05.webp"
+    image: "/images/team/Ralph.png"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
         link: "https://www.linkedin.com/in/ralphwbrown/"
 
-  - name: "Matt Burks"
+  - name: "Matthew Burks"
     designation: "Market Development"
-    image: "/images/team/team-member-06.webp"
+    image: "/images/team/Matt.png"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"

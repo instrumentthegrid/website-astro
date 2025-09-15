@@ -33,27 +33,17 @@
           "description": "Distribution Utility Use Cases",
           "url": "/products/product-2",
           "icon": "FaPlug"
-        },
-        {
-          "name": "National & Regional",
-          "description": "National & Regional Gov't Use Cases",
-          "url": "/products/product-3",
-          "icon": "FaMapLocationDot"
         }
       ]
 
     },
     {
-      "name": "Pages",
+      "name": "Resources",
       "hasChildren": true,
       "children": [
         {
           "name": "White Papers",
           "url": "/case-study"
-        },
-        {
-          "name": "FAQ",
-          "url": "/faq"
         }
       ]
     },
@@ -86,10 +76,6 @@
         {
           "name": "Distribution",
           "url": "/products/product-2"
-        },
-        {
-          "name": "National & State",
-          "url": "/products/product-3"
         }
       ]
     },
