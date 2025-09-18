@@ -25,7 +25,7 @@ services:
     slider_images:
     - "/images/services/GV_WebsitePics_WaveForm1.png"
 
-    description : "GridVisibility exposes voltage and frequency fluctuations, their rates of change, volt-var impacts, transients, harmonic distortions, and a myriads of new disturbances negatively impacting your assets and customer power quality. GridVisibility is shifting the paradigm for utility asset management professionals with continuous, low latency, high-fidelity, point on wave monitoring and alerts, 24/7/365."
+    description : "GridVisibility exposes voltage and frequency fluctuations, their rates of change, volt-var impacts, transients, harmonic distortions, and a myriad of new disturbances negatively impacting your assets and customer power quality. GridVisibility is shifting the paradigm for utility asset management professionals with continuous, low latency, high-fidelity, point on wave monitoring and alerts, 24/7/365."
       
   - title : "Fault analysis & FLISR applications"
     slider_images:
@@ -37,15 +37,15 @@ services:
     - "/images/services/GV_WebsitePics_WaveForm1.png"
     description : "Beyond FERC 901 compliance, utilities dealing with high IBR penetration need enhanced visibility to monitor IBR operations during a myriad of grid disturbances. GridVisibility is a critical tool for validating IBR performance and response during grid voltage and frequency deviations, supporting a more stable and reliable grid."
       
-  - title : "Power quality, harmonics & oscilation visibility"
+  - title : "Power quality, harmonics & oscillation visibility"
     slider_images:
     - "/images/services/GV_WebsitePics_Various_8.png"
-    description : "To address power quality, harmonics, and oscilation issues, arising from IBRs and large loads (like data centers), high fidelity waveform data is essential. Further, GridVisibility’s .5 microsecond accuracy time synchronization enables the identification of correlative behaviors across feeders and phases."
+    description : "To address power quality, harmonics, and oscillation issues, arising from IBRs and large loads (like data centers), high fidelity waveform data is essential. Further, GridVisibility’s .5 microsecond accuracy time synchronization enables the identification of correlative behaviors across feeders and phases."
 
   - title : "Grid topology updates from restoration activities"
     slider_images:
     - "/images/services/GV_WebsitePics_Various_3.png"
-    description : "GridVisibility provides ground truth for the topology configuration. Often times, restoration activities impact grid topologies. GVP identifies those changes, such as phase realignment, nominal voltage levels, and can be an invaluable tool in ensuring the quality of grid operating models. Additionally, during grid restoration activities, GridVisibility's resilient architecture continues to monitor the grid, highlighting areas of concern for line crews, such as identifying misbehaving inverters and backfeeding."
+    description : "GridVisibility provides ground truth for the topology configuration. Often, restoration activities impact grid topologies. GVP identifies those changes, such as phase realignment, nominal voltage levels, and can be an invaluable tool in ensuring the quality of grid operating models. Additionally, during grid restoration activities, GridVisibility's resilient architecture continues to monitor the grid, highlighting areas of concern for line crews, such as identifying misbehaving inverters and backfeeding."
 
   - title : "Enhance ADMS, DERMS & VPP orchestration"
     slider_images:
