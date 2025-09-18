@@ -59,36 +59,34 @@ const { Content } = await render(contactIndex);
                 />
               </label>
             </div>
+            <div class="col-12 mt-6">
+              <label for="email">
+                <div class="mb-2 font-medium text-dark dark:text-darkmode-dark">
+                  Email <span class="text-red-500">*</span>
+                </div>
+                <input
+                  class="blcok border border-border w-full rounded-sm p-3 focus:border-primary focus:outline-none focus:ring-0 focus:shadow-none transition dark:bg-theme-dark/20 dark:border-darkmode-border dark:focus:border-darkmode-primary placeholder:text-darkmode-light"
+                  type="text"
+                  id="email"
+                  placeholder="Email"
+                />
+              </label>
+            </div>
+            <div class="col-12 mt-6">
+              <label for="email">
+                <div class="mb-2 font-medium text-dark dark:text-darkmode-dark">
+                  Message <span class="text-red-500">*</span>
+                </div>
+                <textarea
+                  rows={4}
+                  class="blcok border border-border w-full rounded-sm p-3 focus:border-primary focus:outline-none focus:ring-0 focus:shadow-none transition dark:bg-theme-dark/20 dark:border-darkmode-border dark:focus:border-darkmode-primary placeholder:text-darkmode-light"
+                  id="measage"
+                  placeholder="Message"></textarea>
+              </label>
+            </div>
+            <button class="btn btn-primary mt-8">Send Message</button>
           </form>
 
-          <div class="col-12 mt-6">
-            <label for="email">
-              <div class="mb-2 font-medium text-dark dark:text-darkmode-dark">
-                Email <span class="text-red-500">*</span>
-              </div>
-              <input
-                class="blcok border border-border w-full rounded-sm p-3 focus:border-primary focus:outline-none focus:ring-0 focus:shadow-none transition dark:bg-theme-dark/20 dark:border-darkmode-border dark:focus:border-darkmode-primary placeholder:text-darkmode-light"
-                type="text"
-                id="email"
-                placeholder="Email"
-              />
-            </label>
-          </div>
-
-          <div class="col-12 mt-6">
-            <label for="email">
-              <div class="mb-2 font-medium text-dark dark:text-darkmode-dark">
-                Message <span class="text-red-500">*</span>
-              </div>
-              <textarea
-                rows={4}
-                class="blcok border border-border w-full rounded-sm p-3 focus:border-primary focus:outline-none focus:ring-0 focus:shadow-none transition dark:bg-theme-dark/20 dark:border-darkmode-border dark:focus:border-darkmode-primary placeholder:text-darkmode-light"
-                id="measage"
-                placeholder="Message"></textarea>
-            </label>
-          </div>
-
-          <button class="btn btn-primary mt-8">Send Message</button>
         </div>
       </div>
     </div>
