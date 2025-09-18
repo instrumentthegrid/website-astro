@@ -26,4 +26,4 @@ While there are fundamental differences between distribution grid operators and 
 
 ![image](/images/white-paper/GV_WP_2.png)
 
-**[Contact Us](/contact) To Receive White Paper**
+**[Contact Us](/contact) to receive white paper**

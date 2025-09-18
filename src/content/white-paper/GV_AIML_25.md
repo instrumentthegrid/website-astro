@@ -32,6 +32,6 @@ This paper provides a review of the literature on AI/ML applications in the powe
 
 ![image](/images/white-paper/GV_WP_3.png)
 
-**[Contact Us](/contact) To Receive White Paper**
+**[Contact Us](/contact) to receive white paper**
 
 ---

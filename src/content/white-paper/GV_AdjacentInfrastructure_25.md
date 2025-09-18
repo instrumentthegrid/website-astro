@@ -31,6 +31,6 @@ potentially in the context of Infrastructure Modernization, is the opportunity t
 
 ![image](/images/white-paper/GV_WP_1.png)
 
-**[Contact Us](/contact) To Receive White Paper**
+**[Contact Us](/contact) to receive white paper**
 
 ---
