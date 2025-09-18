@@ -7,14 +7,14 @@ import { Image } from "astro:assets";
 import { render } from "astro:content";
 
 export async function getStaticPaths() {
-  const caseStudies = await getSinglePage("caseStudy");
-  const paths = caseStudies.map((caseStudy) => {
+  const whitePapers = await getSinglePage("whitePaper");
+  const paths = whitePapers.map((whitePaper) => {
     return {
       params: {
-        single: caseStudy.id,
+        single: whitePaper.id,
       },
       props: {
-        caseStudy,
+        whitePaper,
       },
     };
   });
@@ -22,22 +22,22 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { caseStudy } = Astro.props;
-const caseStudies = await getSinglePage("caseStudy");
+const { whitePaper } = Astro.props;
+const whitePapers = await getSinglePage("whitePaper");
 
-const currnetIndex = caseStudies.findIndex((page) => {
-  return page.id === caseStudy.id;
+const currnetIndex = whitePapers.findIndex((page) => {
+  return page.id === whitePaper.id;
 });
 
-const hasNext = currnetIndex + 1 < caseStudies.length;
+const hasNext = currnetIndex + 1 < whitePaper.length;
 const hasPrev = currnetIndex - 1 >= 0;
-const nextcaseStudy = hasNext && caseStudies[currnetIndex + 1];
-const prevcaseStudy = hasPrev && caseStudies[currnetIndex - 1];
-const { Content } = await render(caseStudy);
-const { call_to_action, description, image, title } = caseStudy.data;
+const nextwhitePaper = hasNext && whitePapers[currnetIndex + 1];
+const prevwhitePaper = hasPrev && whitePapers[currnetIndex - 1];
+const { Content } = await render(whitePaper);
+const { call_to_action, description, image, title } = whitePaper.data;
 ---
 
-<Base {...caseStudy.data}>
+<Base {...whitePaper.data}>
   <PageHeader title={title} subtitle={description} />
 
   <section class="section">
@@ -61,13 +61,13 @@ const { call_to_action, description, image, title } = caseStudy.data;
         <div class="row">
           <div class="col-6 text-center md:text-left">
             {
-              prevcaseStudy && (
+              prevwhitePaper && (
                 <a
                   class="inline-block"
-                  href={`/case-study/${prevcaseStudy.id}`}
+                  href={`/white-paper/${prevwhitePaper.id}`}
                 >
                   <div class="bg-secondary rounded-lg">
-                    {prevcaseStudy.data.image && (
+                    {prevwhitePaper.data.image && (
                       <Image
                         class="mb-2"
                         src={image!}
@@ -78,7 +78,7 @@ const { call_to_action, description, image, title } = caseStudy.data;
                     )}
                   </div>
                   <div class="text-center">
-                    <p>Previous Case</p>
+                    <p>Previous Paper</p>
                     <p class="h4 text-dark dark:text-darkmode-dark font-bold">
                       {title}
                     </p>
@@ -89,26 +89,26 @@ const { call_to_action, description, image, title } = caseStudy.data;
           </div>
           <div class="col-6 text-center md:text-right">
             {
-              nextcaseStudy && (
+              nextwhitePaper && (
                 <a
                   class="inline-block"
-                  href={`/case-study/${nextcaseStudy.id}`}
+                  href={`/white-paper/${nextwhitePaper.id}`}
                 >
                   <div class="bg-secondary rounded-lg">
-                    {nextcaseStudy.data.image && (
+                    {nextwhitePaper.data.image && (
                       <Image
                         class="mb-2"
-                        src={nextcaseStudy.data.image}
-                        alt={nextcaseStudy.data.title}
+                        src={nextwhitePaper.data.image}
+                        alt={nextwhitePaper.data.title}
                         width={170}
                         height={100}
                       />
                     )}
                   </div>
                   <div class="text-center">
-                    <p>Next Case</p>
+                    <p>Next Paper</p>
                     <p class="h4 text-dark dark:text-darkmode-dark font-bold">
-                      {nextcaseStudy.data.title}
+                      {nextwhitePaper.data.title}
                     </p>
                   </div>
                 </a>

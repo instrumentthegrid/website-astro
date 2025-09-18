@@ -1,7 +1,7 @@
 ---
 title: "Harnessing Adjacent Infrastructure For Rapid Grid Modernization"
 description: "This paper details an innovative approach to rapid grid modernization by harnessing the existing adjacent cable broadband infrastructure.."
-image: "/images/case-study/GV_WP_1.png"
+image: "/images/white-paper/GV_WP_1.png"
 date: "2025-09-01"
 draft: false
 
@@ -29,7 +29,7 @@ Grid Modernization Initiative’s recently published Grid
 Modernization Strategy 2024. What is less well recognized,
 potentially in the context of Infrastructure Modernization, is the opportunity to leverage the existing adjacent broadband infrastructure to rapidly advance grid modernization and address some of the key attributes and objectives that have been identified in the DOE Grid Modernization strategy 2024. 
 
-![image](/images/case-study/GV_WP_1.png)
+![image](/images/white-paper/GV_WP_1.png)
 
 #### Contact Us To Receive White Paper
 

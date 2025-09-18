@@ -7,10 +7,10 @@ import { Image } from "astro:assets";
 import type { CollectionEntry } from "astro:content";
 import { getEntry } from "astro:content";
 const { data } = (await getEntry(
-  "caseStudy",
+  "whitePaper",
   "-index"
-)) as CollectionEntry<"caseStudy">;
-const caseStudies = await getSinglePage("caseStudy");
+)) as CollectionEntry<"whitePaper">;
+const whitePapers = await getSinglePage("whitePaper");
 ---
 
 <Base>
@@ -20,8 +20,8 @@ const caseStudies = await getSinglePage("caseStudy");
     <div class="container">
       <div class="row gy-4 justify-center">
         {
-          caseStudies.map((caseStudy) => {
-            const { image, title, description } = caseStudy.data;
+          whitePapers.map((whitePaper) => {
+            const { image, title, description } = whitePaper.data;
             return (
               <div class="md:col-6 lg:col-4 xl:col-3">
                 <div class="rounded-sm relative h-full shadow overflow-hidden">
@@ -37,13 +37,13 @@ const caseStudies = await getSinglePage("caseStudy");
                     />
                     <a
                       class="text-primary dark:text-darkmode-primary block mt-5"
-                      href={`/case-study/${slugify(caseStudy.id)}`}
+                      href={`/white-paper/${slugify(whitePaper.id)}`}
                     >
-                      Read the full case study
+                      Read the full white paper
                     </a>
                   </div>
                   <a
-                    href={`/case-study/${slugify(caseStudy.id)}`}
+                    href={`/white-paper/${slugify(whitePaper.id)}`}
                     class="absolute inset-0"
                   />
                 </div>

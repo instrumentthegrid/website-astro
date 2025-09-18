@@ -1,7 +1,7 @@
 ---
 title: "The GridVisibility Platform: Enabling Artificial Intelligence and Machine Learning in the Distribution Grid"
 description: "This paper provides a review of the literature on AI/ML applications in the power grid, a review of the factors affecting data quality, an evaluation of how the limitations of current instrumentation impact data quality, and a novel approach to efficiently obtain high quality, synchronous waveform or Continuous Point On Wave (CPOW) data from the distribution grid at scale."
-image: "/images/case-study/GV_WP_3.png"
+image: "/images/white-paper/GV_WP_3.png"
 date: "2025-09-01"
 draft: false
 
@@ -30,7 +30,7 @@ While the use of big data analytics and AI/ML for the grid has been a topic of r
 
 This paper provides a review of the literature on AI/ML applications in the power grid, a review of the factors affecting data quality, an evaluation of how the limitations of current instrumentation impact data quality, and a novel approach to efficiently obtain high quality, synchronous waveform or Continuous Point On Wave (CPOW) data from the distribution grid at scale.
 
-![image](/images/case-study/GV_WP_3.png)
+![image](/images/white-paper/GV_WP_3.png)
 
 ##### Contact Us To Receive White Paper
 
