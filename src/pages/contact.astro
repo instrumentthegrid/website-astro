@@ -32,7 +32,7 @@ const { Content } = await render(contactIndex);
           </div>
         </div>
         <div class="lg:col-6">
-          <form class="row" action={contact_form_action} name="contact" netlify-honeypot="bot-field" netlify>
+          <form class="row" action={contact_form_action} name="contact" netlify-honeypot="comments" netlify>
             <div class="lg:col-6">
               <label for="first-name">
                 <div class="mb-2 font-medium text-dark dark:text-darkmode-dark">
@@ -90,7 +90,7 @@ const { Content } = await render(contactIndex);
             </div>
             <p class="hidden">
               <label>
-                Don’t fill this out if you’re human: <input name="bot-field" type="text" />
+                Extra comments: <input name="comments" type="text" />
               </label>
             </p>
             <button type="submit" class="btn btn-primary mt-8">Send Message</button>
