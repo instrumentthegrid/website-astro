@@ -10,7 +10,7 @@ banner:
   title: "Distribution: <br> The New Grid Paradigm"
   has_color: false
   image: "/images/products/GV_WebsitePics_Various_8.png"
-  content : "The distribution grid today is designed to react in seconds, but with increased adoption of IBRs, controlled by power electronics, orchestrations requires millisecond awareness for orchestration. GridVisibility enables low latency, reliable, resilient, and continuous monitoring of distribution grid state, including: frequency and voltage + rate of change, faults, transients, and more."
+  content : "The distribution grid today is designed to react in seconds, but with increased adoption of IBRs, controlled by power electronics, orchestration requires millisecond awareness for orchestration. GridVisibility enables low latency, reliable, resilient, and continuous monitoring of distribution grid state, including frequency and voltage + rate of change, faults, transients, and more."
   button:
     enable : true
     label : "Request Demo"
@@ -25,7 +25,7 @@ services:
     slider_images:
     - "/images/services/GV_WebsitePics_WaveForm1.png"
 
-    description : "GridVisibility exposes voltage and frequency fluctuations, their rates of change, volt-var impacts, transients, harmonic distortions, and myriad of new disturbances negatively impacting your assets and customer power quality. GridVisibility is shifting the paradigm for utility asset management professionals with continuous, low latency, high-fidelity, point on wave monitoring and alerts, 24/7/365."
+    description : "GridVisibility exposes voltage and frequency fluctuations, their rates of change, volt-var impacts, transients, harmonic distortions, and a myriads of new disturbances negatively impacting your assets and customer power quality. GridVisibility is shifting the paradigm for utility asset management professionals with continuous, low latency, high-fidelity, point on wave monitoring and alerts, 24/7/365."
       
   - title : "Fault analysis & FLISR applications"
     slider_images:
