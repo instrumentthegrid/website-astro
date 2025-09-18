@@ -33,6 +33,4 @@ potentially in the context of Infrastructure Modernization, is the opportunity t
 
 #### Contact Us To Receive White Paper
 
-info@gridvisibility.com
-
 ---

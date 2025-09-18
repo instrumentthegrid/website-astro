@@ -17,42 +17,6 @@ banner:
     link : "get-demo/"
 
       
-#Product Info
-product_info:
-  enable : true
-  title: "Rapid Impact: Time-to-insight in weeks, not years."
-  content: "GridVisibility harnessess the existing broadband communications infrastructure, so our grid sensors come online with no utility field service crew or IT involvement. With an average provisioning time by a broadband technician is 15 minutes per sensor, meaning scaled deployments happen in weeks, not years...and GridVisibility customers start seeing data and analysis immediately. A wide range of utility distribution operations and applications can utilize the GridVisibility Platform (GVP) for their specific use cases and workflows. GVP's API-native web interface supports ad hoc data downloads in industry standard formats, custom reports, alerts, and dashboards."
-  features:
-  - image: "/images/products/GV_WebsitePics_Various_7.png"
-    content : "#### For Asset Management
-
-
-    GridVisibility exposes voltage fluctuations, volt-var impacts, frequency changes, transients, harmonic distortions, and myriad of new disturbances negatively impacting your assets and customer power quality. GridVisibility is shifting the paradigm for utility asset management professionals with continuous, low latency, high-fidelity, point on wave monitoring and alerts, 24/7/365.
-
-
-
-
-
-    #### For Distribution Engineering
-
-    Whether you are designing new systems, optimizing existing ones, conducting power system studies, or ensuring regulatory compliance, GridVisibility's data provides the insights you need to get your job done.
-    "
-
-  - image: "/images/products/GV_WebsitePics_Various_6.png"
-    content : "#### For System Planning
-
-
-    GridVisibility has shown, with its clients, that distribution system operators don't know what they don't know. Ensure future reliability, resiliency, and capacity by seeing your grid's heartbeat in detail.
-
-    
-
-
-    #### Preparedness & Restoration
-
-    Imagine if you could see your entire distribution system in high-fidelity and continuously...even when the power is out. GridVisibility's out-of-band monitoring capability gives you the data and analytics you need to prepare, analyze, and respond to emergencies in fundamentally new ways.
-    "
-
-      
 # Services
 services:
   enable : true

@@ -28,6 +28,4 @@ Vermont, like many states, is experiencing a rapid transformation of its energy 
 
 ##### Contact Us To Receive White Paper
 
-info@gridvisibility.com
-
 ---

@@ -34,6 +34,4 @@ This paper provides a review of the literature on AI/ML applications in the powe
 
 ##### Contact Us To Receive White Paper
 
-info@gridvisibility.com
-
 ---
