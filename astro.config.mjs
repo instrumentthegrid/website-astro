@@ -49,5 +49,11 @@ export default defineConfig({
       wrap: true,
     },
     extendDefaultPlugins: true,
+    server: {
+      allowedHosts: [
+        "*.netlify.app"
+      ]
+    }
+
   },
 });
