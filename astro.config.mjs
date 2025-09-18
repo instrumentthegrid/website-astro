@@ -52,9 +52,7 @@ export default defineConfig({
   },
   vite: {
     server: {
-      allowedHosts: [
-        "*.netlify.app"
-      ]
+      allowedHosts: true
     }
   }
 });
