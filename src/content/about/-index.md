@@ -41,15 +41,16 @@ funfacts:
       unit: x
       content: "Capture value 30x faster <br /> than business-as-usual"
 
+    - icon: FaJetFighter
+      value: 100
+      unit: "ms"
+      content: "Grid awareness to your screen in <br /> 100 millisecs"
+
     - icon: FaScrewdriverWrench
       value: 0
       unit: "%"
       content: "Involvement of utility IT & field crews "
       
-    - icon: FaJetFighter
-      value: 100
-      unit: "ms"
-      content: "Grid awareness to your screen in <br /> 100 millisecs"
 
 services:
   - title: "We care about <br />your use case & workflow"
