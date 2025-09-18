@@ -39,10 +39,10 @@ feature:
   features:
     - name: "NERC/FERC Compliance"
       icon: "FaLock"
-      content: Enables rapid, scaleable, secure, and flexible distribution grid monitoring to meet NERC/FERC IBR-related compliance guidelines & reporting requirements.
+      content: Enables rapid, scalable, secure, and flexible distribution grid monitoring to meet NERC/FERC IBR-related compliance guidelines & reporting requirements.
     - name: "Model Validation"
       icon: "FaCheck"
-      content: APIs + ad hoc data downloads (COMTRADE, csv, etc) provide high fidelity, GPS time synchronized distribution data for model validation, training, and live model support.
+      content: APIs + ad hoc data downloads (COMTRADE, csv, etc.) provide high fidelity, GPS time synchronized distribution data for model validation, training, and live model support.
     - name: "Event Analysis"
       icon: "FaChartLine"
       content: High fidelity raw event data + embedded platform analytical tools support unprecedented post-event analysis capability.
@@ -60,7 +60,7 @@ feature:
 #Services
 services:
   - title: Cost & Time Efficient w/ Rapid Speed-to-Value. 
-    description: Harnessing existing broadband infrastructure enables rapid, cost effective deployment at scale. Our GVP "Blue Box" provides continuous point-on-wave monitoring at 10,000 samples/second through a 15 minute broadband node retrofit. We're not limited by bandwidth, because we harness the $2 trillion communications investment already made.
+    description: Harnessing existing broadband infrastructure enables rapid, cost-effective deployment at scale. Our GVP "Blue Box" provides continuous point-on-wave monitoring at 10,000 samples/second through a 15-minute broadband node retrofit. We're not limited by bandwidth, because we harness the $2 trillion communications investment already made.
     slider_images:
       - /images/services/GV_WebsitePics_Various_9Color.png
       - /images/services/GV_WebsitePics_WaveForm1.png

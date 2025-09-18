@@ -10,7 +10,7 @@ banner:
   title: "Transmission: <br> Distribution Grid Visibility...Today."
   has_color: true
   image: "/images/products/GV_WebsitePics_Various_9Color.png"
-  content : "GridVisibility provides paradigm shifting situational awareness across the entire distribution grid. GVP enables the next generation of FERC & NERC IBR-related regulatory compliance, model valiation & event analysis."
+  content : "GridVisibility provides paradigm shifting situational awareness across the entire distribution grid. GVP enables the next generation of FERC & NERC IBR-related regulatory compliance, model validation, and event analysis."
   button:
     enable : true
     label : "Request Demo"
@@ -28,7 +28,7 @@ about_this_product:
     content: "Imagine having low latency, all-the-time electrical data, enabling unprecedented visibility and situation awareness of distribution grid behaviors.
 
 
-    Multiple distribution grids, one platform...suppyling consistent, time synchronized situational awareness across the entire grid..
+    Multiple distribution grids, one platform...supplying consistent, time synchronized situational awareness across the entire grid.
     
     * IBR-related NERC compliance and reporting
 
@@ -70,12 +70,12 @@ product_info:
 
     #### For Transmission Planning
 
-    Transmission Planning increasingly requires insights about distribution grid behaviors to ensure an accurate representation of operational models. GridVisibility provides distribution grid data at whatever fidelity and time scales are required, including voltage, frequency, rate-of-change of volatage (ROCOV), and rate-of-change of frequency (ROCOF)."
+    Transmission Planning increasingly requires insights about distribution grid behaviors to ensure an accurate representation of operational models. GridVisibility provides distribution grid data at whatever fidelity and time scales are required, including voltage, frequency, rate-of-change of voltage (ROCOV), and rate-of-change of frequency (ROCOF)."
 
   - image: "/images/products/GV_WebsitePics_Various_7.png"
     content : "#### For Transmission Engineering & Operations
 
-    GridVisibility provides continuous, low latency, consistent feedback regarding the state of the distrbution grid, reflecting the decisions made by distribution operators."
+    GridVisibility provides continuous, low latency, consistent feedback regarding the state of the distribution grid, reflecting the decisions made by distribution operators."
       
 # Services
 services:
