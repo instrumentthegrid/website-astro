@@ -6,7 +6,7 @@
         "secondary": "#f9f9f9",
         "body": "#fff",
         "border": "#eaeaea",
-        "theme_light": "#EDF6F5",
+        "theme_light": "#E8e8e8 ",
         "theme_dark": "#1b2229"
       },
       "text_color": {
