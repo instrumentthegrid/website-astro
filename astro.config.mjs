@@ -50,9 +50,4 @@ export default defineConfig({
     },
     extendDefaultPlugins: true,
   },
-  vite: {
-    server: {
-      allowedHosts: true
-    }
-  }
 });
