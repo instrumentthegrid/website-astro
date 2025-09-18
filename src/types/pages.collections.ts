@@ -124,10 +124,10 @@ export const career = defineCollection({
   }),
 });
 
-export const caseStudy = defineCollection({
+export const whitePaper = defineCollection({
   loader: glob({
     pattern: "**/*.{md,mdx}",
-    base: "src/content/case-study",
+    base: "src/content/white-paper",
   }),
   schema: z.object({
     title: z.string(),

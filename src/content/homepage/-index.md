@@ -95,8 +95,8 @@ services:
 # Annoucement
 annoucement:
   image: /images/announcement.png
-  title: Ready to Take the "Red Pill"? Let's Set Up a Demo.
-  description: We've found the best way to fully grasp what we're doing is to demo...live. That's when people realize high fidelity, low latency, and continuous distribution grid data changes everything!
+  title: Let Us Show You...Live!
+  description: The best way to fully understand what GridVisibility does is to see it...live. That's when the implications of high fidelity, low latency, and continuous distribution come into focus. GridVisibility changes everything!
   button:
     label: "Request Demo"
     link: "/contact"

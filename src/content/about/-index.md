@@ -13,7 +13,7 @@ about:
 goal:
   name: Kyle Thomas
   description: "'With GVP’s sensors and platform offering fast deployment and scalability in dense, high-demand areas, this opens up possibilities for numerous applications across transmission and distribution: supporting real-time distribution operations and planning, DER integration, improved grid performance monitoring, and better transmission system modeling and model validation to understand the rapidly evolving distribution system and its impact on the transmission system in both planning and operations.'"
-  avatar: /images/authors/author-1.webp
+  avatar: /images/authors/Kyle.png
   designation: VP of Engineering & Compliance Services -- Elevate Energy Consulting,Inc."
 
 lists:

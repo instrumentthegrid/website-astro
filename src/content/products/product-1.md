@@ -76,17 +76,6 @@ product_info:
     content : "#### For Transmission Engineering & Operations
 
     GridVisibility provides continuous, low latency, consistent feedback regarding the state of the distrbution grid, reflecting the decisions made by distribution operators."
-
-
-# Intro Video
-intro_video:
-  enable: true
-  title: "See how GridVisibility Impacts Transmission"
-  content: "Adding GVP's high-fidelity data to your suite of system monitoring tools significantly enhances your visibility of an increasingly dynamic grid."
-  video_id: "dyZcRRWiuuw"
-  video_thumbnail: "/images/products/GV_WebsitePics_Various.png"
-  background_class: ""
-
       
 # Services
 services:

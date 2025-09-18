@@ -1,6 +1,6 @@
 ---
-title: "Our Team"
-subtitle: "Meet our team"
+title: "The GridVisibility Team"
+subtitle: ""
 # meta description
 description: "Vestibulum ante ipsum primis in faucibus orci luctus ultrices posuere cubilia Curae Donec"
 draft: false
@@ -9,7 +9,7 @@ draft: false
 team_members:
   - name: "Scott Caruso"
     designation: "Co-Founder & CEO"
-    image: "/images/team/Scott.png"
+    image: "/images/team/Scott2.png"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -17,7 +17,7 @@ team_members:
 
   - name: "Steve Glennon"
     designation: "Co-Founder & CTO"
-    image: "/images/team/Steve.png"
+    image: "/images/team/Steve2.png"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -25,7 +25,7 @@ team_members:
 
   - name: "William Glennon"
     designation: "Software Engineer"
-    image: "/images/team/William.png"
+    image: "/images/team/William2.png"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -33,7 +33,7 @@ team_members:
 
   - name: "Mike Walker"
     designation: "Operations"
-    image: "/images/team/Mike.png"
+    image: "/images/team/Mike2.jpg"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -41,7 +41,7 @@ team_members:
 
   - name: "Ralph Brown"
     designation: "R&D"
-    image: "/images/team/Ralph.png"
+    image: "/images/team/Ralph2.png"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -49,7 +49,7 @@ team_members:
 
   - name: "Matthew Burks"
     designation: "Market Development"
-    image: "/images/team/Matt.png"
+    image: "/images/team/Matt2.png"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -65,7 +65,7 @@ team_members:
 
   - name: "Phil Rosenberg-Watt"
     designation: "Infrastructure"
-    image: "/images/team/watt.jpeg"
+    image: "/images/team/watt2.jpeg"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
