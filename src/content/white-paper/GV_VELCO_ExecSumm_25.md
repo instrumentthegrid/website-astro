@@ -26,6 +26,6 @@ Vermont, like many states, is experiencing a rapid transformation of its energy 
 
 ![image](/images/white-paper/GV_WP_4.png)
 
-##### Contact Us To Receive White Paper
+**[Contact Us](/contact) To Receive White Paper**
 
 ---
