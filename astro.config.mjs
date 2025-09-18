@@ -50,9 +50,11 @@ export default defineConfig({
     },
     extendDefaultPlugins: true,
   },
-  server: {
-    allowedHosts: [
-      "*.netlify.app"
-    ]
+  vite: {
+    server: {
+      allowedHosts: [
+        "*.netlify.app"
+      ]
+    }
   }
 });
