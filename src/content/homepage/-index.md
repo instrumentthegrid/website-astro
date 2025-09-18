@@ -63,8 +63,6 @@ services:
     description: Harnessing existing broadband infrastructure enables rapid, cost-effective deployment at scale. Our GVP "Blue Box" provides continuous point-on-wave monitoring at 10,000 samples/second through a 15-minute broadband node retrofit. We're not limited by bandwidth, because we harness the $2 trillion communications investment already made.
     slider_images:
       - /images/services/GV_WebsitePics_Various_9Color.png
-      - /images/services/GV_WebsitePics_WaveForm1.png
-      - /images/services/GV_WebsitePics_Waveform2.png
   - title: Reliable, Resilient, Secure & Independent. 
     description:  Our broadband partners built and maintain the most sophisticated and secure communication networks on the planet. That means our solution is reliable, resilient (4+ hr battery-backed), secure (Global Fortune 50 security-by-design), and out-of-band (utility agnostic). Our GVP Platform's unique technical and business characteristics both reduce utility risk and create previously impossible value streams.
     slider_images:
