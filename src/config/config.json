@@ -4,7 +4,7 @@
     "base_url": "https://gridvisibility.com",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/favicon.gif",
     "logo": "/images/logo.png",
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "180",
@@ -24,7 +24,7 @@
   "params": {
     "contact_form_action": "#",
     "footer_content": "The paradigm shifting solution for continuous State-of-the-Grid Monitoring",
-    "copyright": "©️ Copyright 2025 GridVisibility, Inc."
+    "copyright": "©️Copyright 2025 GridVisibility, Inc."
   },
 
   "navigation_button": {
