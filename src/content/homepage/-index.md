@@ -93,7 +93,7 @@ services:
 # Annoucement
 annoucement:
   image: /images/announcement.png
-  title: Let Us Show You...Live!
+  title: Let Us Show You
   description: The best way to fully understand what GridVisibility does is to see it...live. That's when the implications of high fidelity, low latency, and continuous distribution come into focus. GridVisibility changes everything!
   button:
     label: "Request Demo"
