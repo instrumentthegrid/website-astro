@@ -55,7 +55,7 @@ funfacts:
 services:
   - title: "We care about <br />your use case & workflow"
     description: Making data actionable is essential. We strive to seamlessly integrate GVP into your workflow.  
-    icon: FaFileSignature
+    icon: FaGears
 
   - title: "Your value creation partner now <br />and in the future"
     description: GridVisibility's value depends on our engaged customer collaboration. We're with you.
