@@ -10,11 +10,13 @@
       "children": [
         {
           "name": "About",
-          "url": "/about"
+          "url": "/about",
+          "icon": "FaCircleInfo"
         },
         {
           "name": "Team",
-          "url": "/team"
+          "url": "/team",
+          "icon": "FaUsers"
         }
       ]
     },
@@ -43,7 +45,8 @@
       "children": [
         {
           "name": "White Papers",
-          "url": "/white-paper"
+          "url": "/white-paper",
+          "icon": "FaFile"
         }
       ]
     },
