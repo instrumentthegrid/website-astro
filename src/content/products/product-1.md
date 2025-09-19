@@ -45,7 +45,7 @@ about_this_product:
     icon: FaGauge
     content: "Imagine having continuous awareness of grid conditions & behaviors.
 
-    GridVisibility's low-cost broadband UPS retrofit enables immediate, high-fidelity grid voltage and frequency monitoring 24/7/365 at scale.
+    GridVisibility's low-cost broadband UPS retrofit enables immediate, high fidelity grid voltage and frequency monitoring 24/7/365 at scale.
     
     - Frequency & ROCOF monitoring
 

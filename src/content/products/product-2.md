@@ -25,7 +25,7 @@ services:
     slider_images:
     - "/images/services/GV_WebsitePics_WaveForm1.png"
 
-    description : "GridVisibility exposes voltage and frequency fluctuations, their rates of change, volt-var impacts, transients, harmonic distortions, and a myriad of new disturbances negatively impacting your assets and customer power quality. GridVisibility is shifting the paradigm for utility asset management professionals with continuous, low latency, high-fidelity, point on wave monitoring and alerts, 24/7/365."
+    description : "GridVisibility exposes voltage and frequency fluctuations, their rates of change, volt-var impacts, transients, harmonic distortions, and a myriad of new disturbances negatively impacting your assets and customer power quality. GridVisibility is shifting the paradigm for utility asset management professionals with continuous, low latency, high fidelity, point on wave monitoring and alerts, 24/7/365."
       
   - title : "Fault analysis & FLISR applications"
     slider_images:

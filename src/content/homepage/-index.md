@@ -1,7 +1,7 @@
 ---
 banner:
-  title: High-fidelity, Time Synchronized Grid Visibility for Continuous Fault & State-of-the-Grid Monitoring
-  content: Harnessing the existing broadband infrastructure to rapidly deliver real-time, all-the-time electrical data; Enabling unprecedented visibility and situational awareness of distribution grid behaviors.
+  title: High Fidelity, Time Synchronized Grid Visibility for Continuous Fault & State-of-the-Grid Monitoring
+  content: Harnessing the existing broadband infrastructure to rapidly deliver real-time, all-the-time, electrical data; enabling unprecedented visibility and situational awareness of distribution grid behaviors.
   image: /images/GV_WebsitePics_Various_7.png
   conclusion: The paradigm shifting solution for state-of-the-grid visibility.
 
@@ -29,8 +29,8 @@ brands_images:
 
 # feature
 feature:
-  title: High-fidelity, Time Synchronized GridVisibility
-  description: Low-cost broadband UPS retrofit enables immediate high-fidelity grid voltage and frequency monitoring 24/7/365
+  title: High Fidelity, Time Synchronized GridVisibility
+  description: Low-cost broadband uninterruptible power supply (UPS) retrofit enables immediate high fidelity grid voltage and frequency monitoring 24/7/365
 
   button:
     label: Request Demo
@@ -59,8 +59,8 @@ feature:
 
 #Services
 services:
-  - title: Cost & Time Efficient w/ Rapid Speed-to-Value. 
-    description: Harnessing existing broadband infrastructure enables rapid, cost-effective deployment at scale. Our GVP "Blue Box" provides continuous point-on-wave monitoring at 10,000 samples/second through a 15-minute broadband node retrofit. We're not limited by bandwidth, because we harness the $2 trillion communications investment already made.
+  - title: Cost & Time Efficient With Rapid Speed-to-Value. 
+    description: Harnessing existing broadband infrastructure enables rapid and cost-effective deployment at scale. Our GVP "Blue Box" provides continuous point-on-wave monitoring at 10,000 samples/second through a 15-minute broadband node retrofit. We're not limited by bandwidth, because we employ the $2 trillion communications investment already made.
     slider_images:
       - /images/services/GV_WebsitePics_Various_9Color.png
   - title: Reliable, Resilient, Secure & Independent. 
