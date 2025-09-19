@@ -39,13 +39,13 @@ export const about = defineCollection({
         }),
       ),
     }),
-    services: z.array(
-      z.object({
-        title: z.string(),
-        description: z.string(),
-        icon: z.string(),
-      }),
-    ),
+    // services: z.array(
+    //   z.object({
+    //     title: z.string(),
+    //     description: z.string(),
+    //     icon: z.string(),
+    //   }),
+    // ),
     // office_culture: z.object({
     //   enable: z.boolean(),
     //   title: z.string(),

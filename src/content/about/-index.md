@@ -52,18 +52,18 @@ funfacts:
       content: "Involvement of utility IT & field crews "
       
 
-services:
-  - title: "We care about <br />your use case & workflow"
-    description: Making data actionable is essential. We strive to seamlessly integrate GVP into your workflow.  
-    icon: FaFileSignature
+# services:
+#   - title: "We care about <br />your use case & workflow"
+#     description: Making data actionable is essential. We strive to seamlessly integrate GVP into your workflow.  
+#     icon: FaFileSignature
 
-  - title: "Your value creation partner now <br />and in the future"
-    description: GridVisibility's value depends on our engaged customer collaboration. We're with you.
-    icon: FaHandshakeAngle
+#   - title: "Your value creation partner now <br />and in the future"
+#     description: GridVisibility's value depends on our engaged customer collaboration. We're with you.
+#     icon: FaHandshakeAngle
 
-  - title: "Personalized <br />support from day one"
-    description: We know what we've built is critical path for you and your grid. We've got your back every step of the way." 
-    icon: FaHeadset
+#   - title: "Personalized <br />support from day one"
+#     description: We know what we've built is critical path for you and your grid. We've got your back every step of the way." 
+#     icon: FaHeadset
 
 # office_culture
 office_culture:
