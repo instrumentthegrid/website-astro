@@ -48,7 +48,7 @@ feature:
       content: High fidelity raw event data + embedded platform analytical tools support unprecedented post-event analysis capability.
     - name: "Situational Awareness"
       icon: "FaBinoculars"
-      content: Dashboards providing continuous, low-latency feedback, 365/24/7, encompassing utility defined alerts.
+      content: Dashboards providing continuous, low-latency feedback, 365/24/7, encompassing utility defined alerts and awareness parameters.
 
 # # workflow
 # workflow:
@@ -64,15 +64,15 @@ services:
     slider_images:
       - /images/services/GV_WebsitePics_Various_9Color.png
   - title: Reliable, Resilient, Secure & Independent. 
-    description:  Our broadband partners built and maintain the most sophisticated and secure communication networks on the planet. That means our solution is reliable, resilient (4+ hr battery-backed), secure (Global Fortune 50 security-by-design), and out-of-band (utility agnostic). Our GVP Platform's unique technical and business characteristics both reduce utility risk and create previously impossible value streams.
+    description:  Our broadband partners built and maintain the most sophisticated and secure communication networks on the planet. That means our solution is reliable, resilient (4+ hr battery-backed), secure (Global Fortune 50 security-by-design), and out-of-band (utility agnostic). Our GridVisibility Platform's unique technical and business characteristics reduce utility risk and create previously impossible value streams.
     slider_images:
       - /images/services/GV_WebsitePics_Various_8.png
   - title: Frictionless Deployment & Implementation.
-    description: GridVisibility coordinates entire process. No electric utility field crew or IT involvement w/ 15min/sensor provisioning. The coexistent broadband infrastructure already overlaps with 90% of US power grid, enabling rapid deployment at scale. GridVisibility provides continuous awareness of grid conditions and behaviors in weeks...not years.
+    description: GridVisibility coordinates the entire process. No electric utility field crew or IT involvement with 15 minute per sensor provisioning. The coexistent broadband infrastructure already overlaps with 90% of US power grid, enabling rapid deployment at scale. GridVisibility provides continuous awareness of grid conditions and behaviors in weeks...not years.
     slider_images:
       - /images/services/GV_WebsitePics_Various_2.png
   - title: We Are Proven & Ready to Scale. We're a Startup That's Not a Startup.
-    description: When you're strategically aligned with the largest broadband operators in the world, you've done something right. Eight years of R&D incubation within CableLabs, a strong balance sheet, an established and growing financing network, combined with successful lighthouse deployments and partners, means we're not just another startup...we're game changers.
+    description: When you're strategically aligned with the largest broadband operators in the world, you've done something right. Eight years of R&D incubation within CableLabs, a strong balance sheet, an established and growing financing network, combined with successful lighthouse deployments and partners, means we're not just another startup. We're game changers.
     slider_images:
       - /images/services/GV_WebsitePics_Various_7.png
 
