@@ -30,7 +30,7 @@ brands_images:
 # feature
 feature:
   title: High Fidelity, Time Synchronized GridVisibility
-  description: Low-cost broadband uninterruptible power supply (UPS) retrofit enables immediate high fidelity grid voltage and frequency monitoring 24/7/365
+  description: Cost effective, time efficient broadband uninterruptible power supply (UPS) retrofit enables immediate high fidelity grid voltage and frequency monitoring 24/7/365
 
   button:
     label: Request Demo
@@ -42,10 +42,10 @@ feature:
       content: Enables rapid, scalable, secure, and flexible distribution grid monitoring to meet NERC/FERC IBR-related compliance guidelines & reporting requirements.
     - name: "Model Validation"
       icon: "FaCheck"
-      content: APIs + ad hoc data downloads (COMTRADE, csv, etc.) provide high fidelity, GPS time synchronized distribution data for model validation, training, and live model support.
+      content: APIs and ad hoc data downloads (COMTRADE, csv, etc.) provide high fidelity, GPS time synchronized distribution data for model validation, training, and live model support.
     - name: "Event Analysis"
       icon: "FaChartLine"
-      content: High fidelity raw event data + embedded platform analytical tools support unprecedented post-event analysis capability.
+      content: High fidelity raw event data and an embedded platform analytical tools support unprecedented post-event analysis capability.
     - name: "Situational Awareness"
       icon: "FaBinoculars"
       content: Dashboards providing continuous, low-latency feedback, 365/24/7, encompassing utility defined alerts and awareness parameters.
@@ -60,19 +60,19 @@ feature:
 #Services
 services:
   - title: Cost & Time Efficient With Rapid Speed-to-Value. 
-    description: Harnessing existing broadband infrastructure enables rapid and cost-effective deployment at scale. Our GVP "Blue Box" provides continuous point-on-wave monitoring at 10,000 samples/second through a 15-minute broadband node retrofit. We're not limited by bandwidth, because we employ the $2 trillion communications investment already made.
+    description: Harnessing existing broadband infrastructure enables rapid and cost-effective deployment at scale. Our GVP "blue box" provides continuous point-on-wave monitoring at 10,000 samples per second, with .5 microsecond time stamps. With a 15-minute broadband UPS retrofit, we realize a rapid time-to-data. We're not limited by bandwidth because we employ the $2 trillion broadband investment already made.
     slider_images:
       - /images/services/GV_WebsitePics_Various_9Color.png
   - title: Reliable, Resilient, Secure & Independent. 
-    description:  Our broadband partners built and maintain the most sophisticated and secure communication networks on the planet. That means our solution is reliable, resilient (4+ hr battery-backed), secure (Global Fortune 50 security-by-design), and out-of-band (utility agnostic). Our GridVisibility Platform's unique technical and business characteristics reduce utility risk and create previously impossible value streams.
+    description:  Our broadband collaborators built and maintain the most sophisticated and secure communication networks on the planet. That means our solution is reliable, resilient (4+ hr battery-backed), secure (Global Fortune 50 security-by-design), and out-of-band (utility agnostic). Our GridVisibility Platform's unique technical and business characteristics reduce utility risk and create previously impossible value streams.
     slider_images:
       - /images/services/GV_WebsitePics_Various_8.png
   - title: Frictionless Deployment & Implementation.
-    description: GridVisibility coordinates the entire process. No electric utility field crew or IT involvement with 15 minute per sensor provisioning. The coexistent broadband infrastructure already overlaps with 90% of US power grid, enabling rapid deployment at scale. GridVisibility provides continuous awareness of grid conditions and behaviors in weeks...not years.
+    description: GridVisibility coordinates the entire process. No electric utility field crews or IT involvement required. Provisioning time is 15 minutes per sensor. Today, the coexistent broadband infrastructure touches 90% of US households and businesses, enabling rapid deployment at scale. GridVisibility provides continuous awareness of grid conditions and behaviors in weeks...not years.
     slider_images:
       - /images/services/GV_WebsitePics_Various_2.png
   - title: We Are Proven & Ready to Scale. We're a Startup That's Not a Startup.
-    description: When you're strategically aligned with the largest broadband operators in the world, you've done something right. Eight years of R&D incubation within CableLabs, a strong balance sheet, an established and growing financing network, combined with successful lighthouse deployments and partners, means we're not just another startup. We're game changers.
+    description: GridVisibility is strategically aligned with the largest broadband operators in the world. Eight years of R&D incubation within <u><a href='https://www.cablelabs.com' target='_blank'>CableLabs</a></u>, a strong balance sheet, combined with successful lighthouse deployments and collaborators, means we're not just another startup. We're a game changer.
     slider_images:
       - /images/services/GV_WebsitePics_Various_7.png
 
@@ -92,9 +92,9 @@ services:
 
 # Annoucement
 annoucement:
-  image: /images/announcement.png
+  image: /images/banner_GVlogo.jpg
   title: Let Us Show You
-  description: The best way to fully understand what GridVisibility does is to see it...live. That's when the implications of high fidelity, low latency, and continuous distribution come into focus. GridVisibility changes everything!
+  description: The best way to understand what GridVisibility delivers is to see it. Experience the impacts of high fidelity, low latency, and continuous distribution GridVisibility.
   button:
     label: "Request Demo"
     link: "/contact"

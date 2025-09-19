@@ -10,7 +10,7 @@ banner:
   title: "Distribution: <br> The New Grid Paradigm"
   has_color: false
   image: "/images/products/GV_WebsitePics_Various_8.png"
-  content : "The distribution grid today is designed to react in seconds, but with increased adoption of IBRs, controlled by power electronics, orchestration requires millisecond awareness for orchestration. GridVisibility enables low latency, reliable, resilient, and continuous monitoring of distribution grid state, including frequency and voltage + rate of change, faults, transients, and more."
+  content : "The distribution grid today is designed to react in seconds, but with increased adoption of IBRs, controlled by power electronics, orchestration requires millisecond awareness. GridVisibility enables low latency, reliable, resilient, and continuous monitoring of distribution grid state, including frequency and voltage, along with their rates of change, faults, transients, and more."
   button:
     enable : true
     label : "Request Demo"
@@ -45,12 +45,12 @@ services:
   - title : "Grid topology updates from restoration activities"
     slider_images:
     - "/images/services/GV_WebsitePics_Various_3.png"
-    description : "GridVisibility provides ground truth for the topology configuration. Often, restoration activities impact grid topologies. GVP identifies those changes, such as phase realignment, nominal voltage levels, and can be an invaluable tool in ensuring the quality of grid operating models. Additionally, during grid restoration activities, GridVisibility's resilient architecture continues to monitor the grid, highlighting areas of concern for line crews, such as identifying misbehaving inverters and backfeeding."
+    description : "GridVisibility provides ground truth for the topology configuration. Often, restoration activities impact grid topologies. GVP identifies those changes, such as phase realignment, nominal voltage levels, and can be an invaluable tool in ensuring the quality of grid operating models. Additionally, during grid restoration activities, GridVisibility's resilient architecture continues to monitor the grid, highlighting areas of concern for line crews, and identifying misbehaving inverters and backfeeding."
 
   - title : "Enhance ADMS, DERMS & VPP orchestration"
     slider_images:
     - "/images/services/GV_WebsitePics_Various.png"
-    description : "The complementary systems that orchestrate modernized electric grids to ensure grid stability require new levels of state-of-grid awareness. ADMSs, DERMs, and VPPs benefit from a consistent, out-of-band signal localized to the feeder and phase. Orchestration systems increasingly require a low latency signal that GridVisibility can quickly and cost efficiently provide."
+    description : "The complementary systems that orchestrate modernized electric grids, to ensure grid stability, require new levels of state-of-grid awareness. ADMSs, DERMs, and VPPs benefit from a consistent, out-of-band signal localized to the feeder and phase. Orchestration systems increasingly require a low latency signal that GridVisibility can quickly and cost efficiently provide."
 # CTA
 call_to_action:
   enable : true

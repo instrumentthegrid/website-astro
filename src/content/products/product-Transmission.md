@@ -21,17 +21,17 @@ banner:
 services:
   enable : true
   block:
-  - title : "Transmission Compliance & Reporting"
+  - title : "Transmission Compliance <br>& Reporting"
     slider_images:
     - "/images/services/GV_WebsitePics_WaveForm1.png"
 
     description : "Enables rapid, scalable, secure, and flexible distribution grid monitoring to meet NERC/FERC IBR-related compliance guidelines & reporting requirements (ex. 901, 1547, etc.). Imagine having low latency, all-the-time electrical data, enabling unprecedented visibility and situation awareness of distribution grid behaviors. Multiple distribution grids, one platform...supplying consistent, time synchronized situational awareness across the entire system to support compliance and reporting, model validation, event analysis, situational analysis, and transmission contingency planning."
-
+      
   - title : "Model Validation"
     slider_images:
     - "/images/services/GV_WebsitePics_Waveform2.png"
     description : "APIs and ad hoc data downloads (COMTRADE, csv, etc.) provide high fidelity, GPS time synchronized distribution data for model validation, training, and live model support."
-
+      
   - title : "Event Analysis"
     slider_images:
     - "/images/services/GV_WebsitePics_WaveForm1.png"
