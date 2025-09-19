@@ -23,6 +23,6 @@ testimonials:
   - name: Amir Makki
     designation: Chairman at Softstuf, Inc. - Softstuf, Inc.
     avatar: "/images/authors/Amir.png"
-    content: <i>One of the things I really like about the GVP sensors is that they give us COMTRADE data files at 10,000 samples per second from any point in time. This allows us to use our Wavewin software to identify lightning strikes, distortion, frequency deviations, and outages. The possibilities are amazing. This new technology is just in time. </i>
+    content: <i>One of the things I really like about the GVP sensors is that they give us COMTRADE data files at 10,000 samples per second from any point in time. This allows us to use our Wavewin software to identify lightning strikes, distortion, frequency deviations, and outages. The possibilities are amazing. This new technology is just in time.</i>
     
 ---
