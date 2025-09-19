@@ -57,7 +57,7 @@ team_members:
 
   - name: "James Denesha"
     designation: "Senior Software Engineer"
-    image: "/images/team/team-member-07.webp"
+    image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipart-library.com%2Fimages_k%2Fmystery-man-silhouette%2Fmystery-man-silhouette-4.jpg&f=1&nofb=1&ipt=61c4208a8b27917bea7643598e176d0eccfb3d783ff46a1466073e2f9cf520e6"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
