@@ -6,27 +6,27 @@ draft: false
 
 about:
   title: Just Imagine...
-  description: "Imagine how different grid monitoring and management would be if today’s constraints didn’t exist. Imagine a high fidelity, low latency, and continuous point-on-wave grid signal with unlimited bandwidth…all the time…everywhere. Not one-minute data, but millisecond data. Not three second event snippets, but on demand raw data as far back as you want to go. Imagine looking five minutes before an event because you have a hunch there is pattern?
-  It would change EVERYTHING! And you don't have to imagine it, because it exists today."
+  description: "Imagine how different grid monitoring and management would be if today’s bandwidth constraints didn’t exist. Imagine a high fidelity, low latency, and continuous point-on-wave grid signal with unlimited bandwidth…all the time…everywhere. Not one-minute data, but millisecond data. Not three second event snippets, but on-demand raw data from any point in time.
+  Unconstrained grid data would change everything! It exists today."
   image: /images/about/GV_WebsitePics_Various_8.png
 
 goal:
-  name: Kyle Thomas
-  description: "'With GVP’s sensors and platform offering fast deployment and scalability in dense, high-demand areas, this opens up possibilities for numerous applications across transmission and distribution; supporting real-time distribution operations and planning, DER integration, improved grid performance monitoring, and better transmission system modeling and model validation to understand the rapidly evolving distribution system and its impact on the transmission system in both planning and operations.'"
-  avatar: /images/authors/Kyle.png
-  designation: VP of Engineering & Compliance Services -- Elevate Energy Consulting, Inc.
+  name: Scott Caruso
+  description: "'Infrastructure scale opportunity, urgent and important. It is extremely rare to discover a solution that fundamentally transforms an industry, along with a team that can implement. In these changing times, GridVisibility provides a common sense, yet paradigm shifting, solution for grid monitoring and operations.'"
+  avatar: /images/authors/Scott.png
+  designation: Co-founder & CEO -- GridVisibility, Inc.
 
 lists:
   - title: Who we are?
-    description: "We are a seasoned team of innovators, technologists, communications and utility experts. The founders, Scott Caruso and Steve Glennon, worked for over seven years together at <u><a href='https://www.cablelabs.com' target='_blank'>CableLabs</a></u> developing the GridVisibility Platform. In 2024, we acquired a license to the patented technology and formally launched GridVisibility, inc. in January 2025.
+    description: "We are a seasoned team of innovators, technologists, communications, and utility experts. The founders, Scott Caruso and Steve Glennon, worked for over seven years together at <u><a href='https://www.cablelabs.com' target='_blank'>CableLabs</a></u> developing the GridVisibility Platform. In 2024, they acquired a license to the patented technology and formally launched GridVisibility, inc. in January 2025.
     <br />
     <br />
-    This extraordinary team includes Mike Walker (former NERC and National Grid USA executive), Matt Burks (former Chief Strategy Officer at E Source), and Ralph Brown (former CTO at CableLabs)."
+    This extraordinary team includes Mike Walker (former NERC and National Grid USA executive), Matthew Burks (former Chief Strategy Officer at E Source), and Ralph Brown (former CTO at CableLabs)."
   - title: Our mission
-    description: "It is extremely rare to discover a solution that will fundamentally transform the world, along with a team that can do it. In these changing times, GridVisibility provides a common sense, yet paradigm shifting, solution for grid monitoring and operations.
+    description: "It is extremely rare to discover a solution that fundamentally transforms an industry, along with a team that executes. GridVisibility provides a common sense, paradigm shifting solution to address the rapidly evolving and transforming power grid.
     <br />
     <br />
-    With a spirit of collaboration, creativity, and unparalleled technical acumen, GridVisibility’s mission is to solve the hardest grid reliability, resiliency, and security challenges in generations, by providing high fidelity, low latency, holistic GridVisibility to energy professionals on the front lines. Come with us as we transform the change the world together!"
+    With a spirit of collaboration, creativity, and unparalleled technical acumen, GridVisibility’s mission is to solve the hardest reliability and resiliency challenges confronting the grid today, by providing high fidelity, low latency, holistic GridVisibility to power grid professionals."
 
 funfacts:
   title: Fun facts about us
@@ -34,36 +34,36 @@ funfacts:
     - icon: FaMapLocationDot
       value: 90
       unit: "%"
-      content: "We can reach 90% of US <br /> today"
+      content: "Broadband infrastructure reaches 90% of <br /> US households & businesses"
 
     - icon: FaChartSimple
-      value: 30
-      unit: x
-      content: "Capture value 30x faster <br /> than business-as-usual"
+      value: 10000
+      unit: s/s
+      content: "GVP measures & continuously streams grid data at <br /> 10K samples per second"
 
     - icon: FaJetFighter
       value: 100
       unit: "ms"
-      content: "Grid awareness to your screen in <br /> 100 millisecs"
+      content: "Constant grid awareness in <br /> 100 milliseconds"
 
     - icon: FaScrewdriverWrench
       value: 0
       unit: "%"
-      content: "Involvement of utility IT & field crews "
+      content: "No utility IT & field crew involvement required for provisioning, means fast time-to-data"
       
 
-# services:
-#   - title: "We care about <br />your use case & workflow"
-#     description: Making data actionable is essential. We strive to seamlessly integrate GVP into your workflow.  
-#     icon: FaFileSignature
+services:
+  - title: "We care about <br />your use cases & workflows"
+    description: Making data actionable is essential. We strive to seamlessly integrate GVP into your workflows.  
+    icon: FaGears
 
-#   - title: "Your value creation partner now <br />and in the future"
-#     description: GridVisibility's value depends on our engaged customer collaboration. We're with you.
-#     icon: FaHandshakeAngle
+  - title: "Your value creation partner <br /> now & in the future"
+    description: GridVisibility's value depends on our engaged customer collaboration. We're with you.
+    icon: FaHandshakeAngle
 
-#   - title: "Personalized <br />support from day one"
-#     description: We know what we've built is critical path for you and your grid. We've got your back every step of the way." 
-#     icon: FaHeadset
+  - title: "Personalized <br />support from day one"
+    description: We know what we've built is critical path for you and your grid. We've got your back every step of the way. 
+    icon: FaHeadset
 
 # office_culture
 office_culture:

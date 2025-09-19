@@ -11,7 +11,7 @@ testimonials:
     content: <i>GVP’s sensors and platform offers fast deployment, and scalability and opens possibilities for numerous applications across transmission and distribution; supporting real-time distribution operations and planning, DER integration, improved grid performance monitoring, and better transmission system modeling and model validation to understand the rapidly evolving distribution system and its impact on the transmission system in both planning and operations.</i>
 
   - name: Cyril Brunner
-    designation: Innovation & Technology Leader + SLT - Vermont Energy Cooperative (VEC)
+    designation: Innovation & Technology Leader & SLT - Vermont Energy Cooperative (VEC)
     avatar: "/images/authors/Cyril.png"
     content: <i>GridVisibility provides reliable, high fidelity data that identifies faults and quantifies the magnitude of power quality issues on the distribution system for our distribution operators.</i>
 
@@ -21,8 +21,8 @@ testimonials:
     content: <i>As IBR penetration grows, low-latency communications and high fidelity observability are no longer optional. They become core infrastructure.</i>
 
   - name: Amir Makki
-    designation: Chief Engineering Officer - Softstuf, Inc.
+    designation: Chairman at Softstuf, Inc. - Softstuf, Inc.
     avatar: "/images/authors/Amir.png"
-    content: <i>One of the things I really like about the GVP sensors is that they give us Comtrade data files at 10,000 samples per second from any point in time. This allows us to use our Wavewin software to study possibilities. So far, we have been able to use their data to identify lightning strikes, distortion, frequency deviation, outages, and we are now looking for high impedance faults. The possibilities are amazing. This new technology is just in time. </i>
+    content: <i>One of the things I really like about the GVP sensors is that they give us COMTRADE data files at 10,000 samples per second from any point in time. This allows us to use our Wavewin software to identify lightning strikes, distortion, frequency deviations, and outages. The possibilities are amazing. This new technology is just in time. </i>
     
 ---
