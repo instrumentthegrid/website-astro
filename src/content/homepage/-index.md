@@ -12,7 +12,7 @@ banner:
 
 #Brands Slider
 brands_images:
-  title: The paradigm shifting solution for distribution GridVisibility!
+  title: Our Collaborators...
   lists:
     - image: /images/brands/comcastlogo.png
       alt: Comcast
@@ -70,7 +70,7 @@ services:
   - title: Frictionless Deployment & Implementation.
     description: GridVisibility coordinates the entire process. No electric utility field crews or IT involvement required. Provisioning time is 15 minutes per sensor. Today, the coexistent broadband infrastructure touches 90% of US households and businesses, enabling rapid deployment at scale. GridVisibility provides continuous awareness of grid conditions and behaviors in weeks...not years.
     slider_images:
-      - /images/services/GV_WebsitePics_Various_2.png
+      - /images/services/GV_WebsitePics_Various_3.png
   - title: We Are Proven & Ready to Scale. We're a Startup That's Not a Startup.
     description: GridVisibility is strategically aligned with the largest broadband operators in the world. Eight years of R&D incubation within <u><a href='https://www.cablelabs.com' target='_blank'>CableLabs</a></u>, a strong balance sheet, combined with successful lighthouse deployments and collaborators, means we're not just another startup. We're a game changer.
     slider_images:

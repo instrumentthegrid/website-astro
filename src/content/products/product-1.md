@@ -25,7 +25,7 @@ services:
     slider_images:
     - "/images/products/AdvancedAnalysis_Low.jpg"
 
-    description : "Enables rapid, scalable, secure, and flexible distribution grid monitoring to meet NERC/FERC IBR-related compliance guidelines & reporting requirements (ex. 901, 1547, etc.). Imagine having low latency, all-the-time electrical data, enabling unprecedented visibility and situation awareness of distribution grid behaviors. Multiple distribution grids, one platform...supplying consistent, time synchronized situational awareness across the entire system to support compliance and reporting, model validation, event analysis, situational analysis, and transmission contingency planning."
+    description : "Enables rapid, scalable, secure, and flexible distribution grid monitoring to meet NERC/FERC IBR-related compliance guidelines & reporting requirements (ex. 901, IEEE 1547, etc.). Imagine having low latency, all-the-time electrical data, enabling unprecedented visibility and situation awareness of distribution grid behaviors. Multiple distribution grids, one platform...supplying consistent, time synchronized situational awareness across the entire system to support compliance and reporting, model validation, event analysis, situational analysis, and transmission contingency planning."
 
   - title : "Model Validation"
     slider_images:
@@ -35,12 +35,12 @@ services:
   - title : "Event Analysis"
     slider_images:
     - "/images/products/Event Analysis.png"
-    description : "Time synchronized high fidelity raw waveform event data aggregated and accessible through the GVP analytical tools support unprecedented post-event analysis capability, including playbacks, heat maps and adjustable thresholds for metrics voltage and frequency,  GridVisibility is reliable and resilient, providing additional 4+ hr battery-backed grid visibility, create previously impossible outage event data streams. "
+    description : "Time synchronized high fidelity raw waveform event data is aggregated and accessible through the GVP analytical tools. These tools and event data support unprecedented post-event analysis capability, including playbacks, heat maps and adjustable thresholds for metrics voltage and frequency. The GridVisibility platform is reliable and resilient, providing additional 4+ hr battery-backed ride through for grid visibility, creating previously impossible outage event data streams."
       
   - title : "Situational Awareness"
     slider_images:
     - "/images/products/GV_WebsitePics_Various_8.png"
-    description : "Dashboards provide continuous, low-latency feedback, 365/24/7, encompassing utility defined alerts and awareness parameters. Dashboards also supply selection of frequency update and sample rates with a geospatial context."
+    description : "GridVisibility dashboards provide continuous, low-latency feedback, 365/24/7, encompassing utility defined alerts and awareness parameters. Dashboards also supply selection of frequency update and sample rates with a geospatial context."
 
 # CTA
 call_to_action:

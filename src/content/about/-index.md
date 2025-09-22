@@ -12,7 +12,7 @@ about:
 
 goal:
   name: Scott Caruso
-  description: "'Infrastructure scale opportunity, urgent and important. It is extremely rare to discover a solution that fundamentally transforms an industry, along with a team that can implement. In these changing times, GridVisibility provides a common sense, yet paradigm shifting, solution for grid monitoring and operations.'"
+  description: "Our ambition is to deliver next generation grid instrumentation. Our solution is novel, transformative, and creates the core capabilities required for the grid to move from seconds to milliseconds; from reactive to proactive. Collaboration is in our DNA, enabling us to harness the intersection between the broadband and power industries. We’re a team driven to execute on the critical outcomes that benefit of our fellow citizens - a more reliable, resilient and secure grid!"
   avatar: /images/authors/Scott.png
   designation: Co-founder & CEO -- GridVisibility, Inc.
 
@@ -23,7 +23,7 @@ lists:
     <br />
     This extraordinary team includes Mike Walker (former NERC and National Grid USA executive), Matthew Burks (former Chief Strategy Officer at E Source), and Ralph Brown (former CTO at CableLabs)."
   - title: Our mission
-    description: "It is extremely rare to discover a solution that fundamentally transforms an industry, along with a team that executes. GridVisibility provides a common sense, paradigm shifting solution to address the rapidly evolving and transforming power grid.
+    description: "Early on, the GridVisibility team recognized the opportunity for cross industry collaboration between broadband and distribution grid operators. Our mission is to capitalize on the synergies of the two industries to their shared benefit, along with the communities they serve.
     <br />
     <br />
     With a spirit of collaboration, creativity, and unparalleled technical acumen, GridVisibility’s mission is to solve the hardest reliability and resiliency challenges confronting the grid today, by providing high fidelity, low latency, holistic GridVisibility to power grid professionals."

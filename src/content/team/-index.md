@@ -9,7 +9,7 @@ draft: false
 team_members:
   - name: "Scott Caruso"
     designation: "Co-Founder & CEO"
-    image: "/images/team/Scott2.png"
+    image: ""
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -17,7 +17,7 @@ team_members:
 
   - name: "Steve Glennon"
     designation: "Co-Founder & CTO"
-    image: "/images/team/Steve2.png"
+    image: ""
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -25,7 +25,7 @@ team_members:
 
   - name: "William Glennon"
     designation: "Software Engineer"
-    image: "/images/team/William2.png"
+    image: ""
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -33,7 +33,7 @@ team_members:
 
   - name: "Mike Walker"
     designation: "Operations"
-    image: "/images/team/Mike2.jpg"
+    image: ""
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -41,7 +41,7 @@ team_members:
 
   - name: "Ralph Brown"
     designation: "R&D"
-    image: "/images/team/Ralph2.png"
+    image: ""
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -49,7 +49,7 @@ team_members:
 
   - name: "Matthew Burks"
     designation: "Market Development"
-    image: "/images/team/Matt2.png"
+    image: ""
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -57,7 +57,7 @@ team_members:
 
   - name: "James Denesha"
     designation: "Senior Software Engineer"
-    image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipart-library.com%2Fimages_k%2Fmystery-man-silhouette%2Fmystery-man-silhouette-4.jpg&f=1&nofb=1&ipt=61c4208a8b27917bea7643598e176d0eccfb3d783ff46a1466073e2f9cf520e6"
+    image: ""
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -65,7 +65,7 @@ team_members:
 
   - name: "Phil Rosenberg-Watt"
     designation: "Infrastructure"
-    image: "/images/team/watt2.jpeg"
+    image: ""
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
