@@ -15,6 +15,12 @@ goal:
   avatar: /images/GV_Website_Grey_HOLD.png
   designation: Co-founder & CEO -- GridVisibility, inc.
 
+goal_two:
+  name: Firsty McLasty
+  description: "Description"
+  avatar: /images/GV_Website_Grey_HOLD.pngO
+  designation: "Designation"
+
 lists:
   - title: Who we are?
     description: "We are a seasoned team of innovators, technologists, communications, and utility experts. The founders, Scott Caruso and Steve Glennon, worked for over seven years together at <u><a href='https://www.cablelabs.com' target='_blank'>CableLabs</a></u> developing the GridVisibility Platform. In 2024, they acquired a license to the patented technology and formally launched GridVisibility, inc. in January 2025.
@@ -85,3 +91,5 @@ office_culture:
   #     label : "View open Positions"
   #     link : "careers"
 ---
+
+regular text won't show up

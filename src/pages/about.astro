@@ -10,7 +10,7 @@ const aboutIndex = (await getEntry(
   "about",
   "-index"
 )) as CollectionEntry<"about">;
-const { about, funfacts, goal, lists, services } =
+const { about, funfacts, goal, goal_two, lists, services } =
   aboutIndex.data;
 ---
 
@@ -66,6 +66,26 @@ const { about, funfacts, goal, lists, services } =
           ))
         }
         <div class="lg:col-6"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section bg-theme-light dark:bg-darkmode-theme-light">
+    <div class="container">
+      <div class="lg:col-8 mx-auto text-center">
+        <p
+          class="text-dark dark:text-darkmode-dark h5"
+          set:html={markdownify(goal_two.description)}
+        />
+        <Image
+          class="rounded-full inline-block mt-8"
+          width={100}
+          height={100}
+          src={goal_two.avatar}
+          alt="author"
+        />
+        <h4 class="mt-3 font-bold" set:html={markdownify(goal_two.name)} />
+        <p class="mt-1" set:html={markdownify(goal_two.designation)} />
       </div>
     </div>
   </section>
