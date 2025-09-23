@@ -25,7 +25,7 @@ about_this_product:
   features:
   - title: "Transmission Compliance & Reporting"
     icon: FaFileSignature
-    content: "Imagine having low latency, all-the-time electrical data, enabling unprecedented visibility and situation awareness of distribution grid behaviors.
+    content: "Imagine having low latency, all-the-time electrical data, enabling unprecedented visibility and situational awareness of distribution grid behaviors.
 
 
     Multiple distribution grids, one platform...supplying consistent, time synchronized situational awareness across the entire system.

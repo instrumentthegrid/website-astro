@@ -12,7 +12,7 @@ banner:
 
 #Brands Slider
 brands_images:
-  title: Our Collaborators...
+  title: Our Collaborators
   lists:
     - image: /images/brands/comcastlogo.png
       alt: Comcast
@@ -30,7 +30,7 @@ brands_images:
 # feature
 feature:
   title: High Fidelity, Time Synchronized GridVisibility
-  description: Cost effective, time efficient broadband uninterruptible power supply (UPS) retrofit enables immediate high fidelity grid voltage and frequency monitoring 24/7/365
+  description: Cost effective, time efficient broadband UPS retrofit enables immediate high fidelity grid voltage and frequency monitoring 24/7/365
 
   button:
     label: Request Demo

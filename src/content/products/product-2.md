@@ -30,7 +30,7 @@ services:
   - title : "Fault analysis & FLISR applications"
     slider_images:
     - "/images/products/GV_WebsitePics_Waveform2.png"
-    description : "With unprecedented fidelity, GridVisibility uncovers arcing faults, equipment-related faults, or transients. The GridVisibility Platform ties raw sensor data to the grid topology - substation, feeder, phase - and then represents those data/events geospatially via Google Maps. GVP identifies, logs, alerts, and supports visual analytics, including playback, threshold analysis, and fault location solutions, like SoftStuf's Wavewin application."
+    description : "With unprecedented fidelity, GridVisibility uncovers arcing faults, equipment-related faults, or transients. The GridVisibility Platform ties raw sensor data to the grid topology - substation, feeder, phase - and then represents those data/events geospatially via Google Maps. GVP identifies, logs, alerts, and supports visual analytics, including playback, threshold analysis, and fault location solutions, like Softstuf's Wavewin application."
       
   - title : "IBR ride through performance analysis"
     slider_images:
@@ -55,7 +55,7 @@ services:
 call_to_action:
   enable : true
   title: Shift Your Distribution Monitoring & Management Paradigm. Today.
-  description: The GridVisibility Platform can cost efficiently and time effectively measure, analyze, and provide essential utility distribution grid insights that are actionable...today. Let us demonstrate what’s possible.
+  description: The GridVisibility Platform cost efficiently and time effectively measures, analyzes, and provides actionable distribution grid insights. Today. Let us show you what’s possible.
   button:
     label: "Request Demo"
     link: "/contact"

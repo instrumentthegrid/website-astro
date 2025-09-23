@@ -25,7 +25,7 @@ services:
     slider_images:
     - "/images/services/GV_WebsitePics_WaveForm1.png"
 
-    description : "Enables rapid, scalable, secure, and flexible distribution grid monitoring to meet NERC/FERC IBR-related compliance guidelines & reporting requirements (ex. 901, IEEE 1547, etc.). Imagine having low latency, all-the-time electrical data, enabling unprecedented visibility and situation awareness of distribution grid behaviors. Multiple distribution grids, one platform...supplying consistent, time synchronized situational awareness across the entire system to support compliance and reporting, model validation, event analysis, situational analysis, and transmission contingency planning."
+    description : "Enables rapid, scalable, secure, and flexible distribution grid monitoring to meet NERC/FERC IBR-related compliance guidelines & reporting requirements (ex. 901, IEEE 1547, etc.). Imagine having low latency, all-the-time electrical data, enabling unprecedented visibility and situational awareness of distribution grid behaviors. Multiple distribution grids, one platform...supplying consistent, time synchronized data and insights across the entire system to support compliance and reporting, model validation, event analysis, situational analysis, and transmission contingency planning."
       
   - title : "Model Validation"
     slider_images:
@@ -35,7 +35,7 @@ services:
   - title : "Event Analysis"
     slider_images:
     - "/images/services/GV_WebsitePics_WaveForm1.png"
-    description : "High fidelity raw event data and an embedded platform analytical tools support unprecedented post-event analysis capability."
+    description : "High fidelity, raw event data and embedded platform analytical tools support an unprecedented post-event analysis capability."
       
   - title : "Situational Awareness"
     slider_images:
