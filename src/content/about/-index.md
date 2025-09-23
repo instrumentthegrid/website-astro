@@ -6,8 +6,7 @@ draft: false
 
 about:
   title: Just Imagine
-  description: "Imagine how different grid monitoring and management would be if today’s bandwidth constraints didn’t exist. Imagine a high fidelity, low latency, and continuous point-on-wave grid signal with unlimited bandwidth…all the time…everywhere. Not one-minute data, but millisecond data. Not three second event snippets, but on-demand raw data from any point in time.
-  Unconstrained grid data would change everything! It exists today."
+  description: "Imagine how different grid monitoring and management would be if today’s bandwidth constraints didn’t exist. Imagine a high fidelity, low latency, and continuous point-on-wave grid signal with unlimited bandwidth…all the time…everywhere. Not one-minute data, but millisecond data. Not three second event snippets, but on-demand raw data from any point in time. Unconstrained grid data would change everything! It exists today."
   image: /images/about/GV_WebsitePics_Various_8.png
 
 goal:
