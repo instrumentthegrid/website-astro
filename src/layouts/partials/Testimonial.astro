@@ -58,12 +58,17 @@ const { description, title, enable, testimonials } = testimonial.data;
 <script>
   import { Swiper } from "swiper";
   import "swiper/css";
-  import { Pagination } from "swiper/modules";
+  import { Autoplay, Pagination } from "swiper/modules";
 
   // astro:page-load event is fired when the page is loaded
   document.addEventListener("astro:page-load", () => {
     new Swiper(".testimonial-slider", {
-      modules: [Pagination],
+      modules: [Autoplay, Pagination],
+      speed: 2000,
+      autoplay: {
+        disableOnInteraction: false,
+        delay: 8000,
+      },
       spaceBetween: 52,
       loop: true,
       // loopedSlides: 2,
