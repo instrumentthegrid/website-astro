@@ -9,7 +9,7 @@ icon: FaDiceD6
 banner:
   title: "Distribution: <br> The New Grid Paradigm"
   has_color: false
-  image: "/images/StanHoptroff_Quote_0925.jpg"
+  image: "/images/StanHoptroffQuote_Grey2.jpg"
   content : "The distribution grid today is designed to react in seconds, but with increased adoption of IBRs, controlled by power electronics, orchestration requires millisecond awareness. GridVisibility enables low latency, reliable, resilient, and continuous monitoring of distribution grid state, including frequency and voltage, along with their rates of change, faults, transients, and more."
   button:
     enable : true
