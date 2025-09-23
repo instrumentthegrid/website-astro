@@ -8,7 +8,7 @@ draft: false
 call_to_action:
   enable: true
   title: Let Us Show You
-  description: The best way to fully understand what GridVisibility does is to see it...live. That's when the implications of high fidelity, low latency, and continuous distribution come into focus. GridVisibility changes everything!
+  description: The best way to understand what GridVisibility delivers is to see it. Experience the impacts of high fidelity, low latency, and continuous distribution GridVisibility.
   image: /images/cta.png
   button:
     label: "Contact Us"
@@ -32,6 +32,6 @@ This paper provides a review of the literature on AI/ML applications in the powe
 
 ![image](/images/white-paper/GV_WP_3.png)
 
-##### Contact Us To Receive White Paper
+**[Contact Us](/contact) to receive white paper**
 
 ---

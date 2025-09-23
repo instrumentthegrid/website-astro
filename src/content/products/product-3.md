@@ -29,7 +29,7 @@ product_info:
     content : "#### FNET 2.0: High Fidelity Wide-Area Monitoring System
 
 
-    GridVisibility can rapidly retrofit the existing US broadband system to provide continuous, high fidelity, wide-area monitoring system (WAMS) for the electric power grid. Our existing stategic partners enable us to access over 600,000 broadband nodes capable of measuring grid frequency, voltage, and phase angle from the medium voltage distribution system. Our sensor network can provide local, state, regional, and national situational awareness and blackout prevention data and analysis.
+    GridVisibility can rapidly retrofit the existing US broadband system to provide continuous, high fidelity, wide-area monitoring system (WAMS) for the electric power grid. Our existing stategic collaborators enable us to access over 600,000 broadband nodes capable of measuring grid frequency, voltage, and phase angle from the medium voltage distribution system. Our sensor network can provide local, state, regional, and national situational awareness and blackout prevention data and analysis.
 
     
 

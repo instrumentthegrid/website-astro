@@ -5,7 +5,7 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.gif",
-    "logo": "/images/logo.png",
+    "logo": "/images/logo_GVAlt_Transparent.png",
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "180",
     "logo_height": "39",
@@ -23,7 +23,7 @@
 
   "params": {
     "contact_form_action": "/thank-you",
-    "footer_content": "The paradigm shifting solution for continuous State-of-the-Grid Monitoring",
+    "footer_content": "The paradigm shifting solution for continuous state-of-the-grid monitoring",
     "copyright": "©️Copyright 2025 GridVisibility, Inc."
   },
 
