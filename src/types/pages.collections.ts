@@ -22,6 +22,12 @@ export const about = defineCollection({
       avatar: z.string(),
       designation: z.string(),
     }),
+    goal_two: z.object({
+      name: z.string(),
+      description: z.string(),
+      avatar: z.string(),
+      designation: z.string(),
+    }),
     lists: z.array(
       z.object({
         title: z.string(),

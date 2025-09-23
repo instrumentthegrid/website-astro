@@ -6,15 +6,20 @@ draft: false
 
 about:
   title: Just Imagine
-  description: "Imagine how different grid monitoring and management would be if today’s bandwidth constraints didn’t exist. Imagine a high fidelity, low latency, and continuous point-on-wave grid signal with unlimited bandwidth…all the time…everywhere. Not one-minute data, but millisecond data. Not three second event snippets, but on-demand raw data from any point in time.
-  Unconstrained grid data would change everything! It exists today."
+  description: "Imagine how different grid monitoring and management would be if today’s bandwidth constraints didn’t exist. Imagine a high fidelity, low latency, and continuous point-on-wave grid signal with unlimited bandwidth…all the time…everywhere. Not one-minute data, but millisecond data. Not three second event snippets, but on-demand raw data from any point in time. Unconstrained grid data would change everything! It exists today."
   image: /images/about/GV_WebsitePics_Various_8.png
 
 goal:
-  name: Scott Caruso
+  name: Scott L Caruso
   description: "Our ambition is to deliver next generation grid instrumentation. Our solution is novel, transformative, and creates the core capabilities required for the grid to move from seconds to milliseconds; from reactive to proactive. Collaboration is in our DNA, enabling us to harness the intersection between the broadband and power industries. We’re a team driven to execute on the critical outcomes that benefit our fellow citizens - a more reliable, resilient and secure grid!"
   avatar: /images/GV_Website_Grey_HOLD.png
-  designation: Co-founder & CEO -- GridVisibility, Inc.
+  designation: Co-founder & CEO -- GridVisibility, inc.
+
+goal_two:
+  name: Steve Glennon
+  description: "The GridVisibility Platform is conceptually simple, but supported by a sophisticated data architecture that enables virtually unlimited bandwidth and cloud compute for grid monitoring and management. We’ve built a system that is secure by design, resilient, and infrastructure scalable. GVP brings next level capabilities to grid instrumentation."
+  avatar: /images/GV_Website_Grey_HOLD.png
+  designation: "Co-founder & CTO -- GridVisibility, inc."
 
 lists:
   - title: Who we are?
@@ -23,7 +28,7 @@ lists:
     <br />
     This extraordinary team includes Mike Walker (former NERC and National Grid USA executive), Matthew Burks (former Chief Strategy Officer at E Source), and Ralph Brown (former CTO at CableLabs)."
   - title: Our mission
-    description: "Early on, the GridVisibility team recognized the opportunity for cross industry collaboration between broadband and distribution grid operators. Our mission is to capitalize on the synergies of the two industries for their shared benefit and benefit of the communities they serve.
+    description: "Early on, the GridVisibility team recognized the opportunity for cross industry collaboration between broadband and grid operators. Our mission is to capitalize on the synergies of the two industries for their shared benefit and benefit of the communities they serve.
     <br />
     <br />
     With a spirit of collaboration, creativity, and unparalleled technical acumen, GridVisibility solves many of the hardest reliability and resiliency challenges confronting the grid today, by providing high fidelity, low latency, and holistic GridVisibility to power grid professionals."
@@ -86,3 +91,5 @@ office_culture:
   #     label : "View open Positions"
   #     link : "careers"
 ---
+
+regular text won't show up
