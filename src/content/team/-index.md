@@ -7,7 +7,7 @@ draft: false
 
 # team_members
 team_members:
-  - name: "Scott Caruso"
+  - name: "Scott L Caruso"
     designation: "Co-Founder & CEO"
     image: ""
     social_profile:

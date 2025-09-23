@@ -22,6 +22,8 @@ brands_images:
       alt: VEC
     - image: /images/brands/elevatelogo.webp
       alt: Elevate
+    - image: /images/brands/ORNLlogo.jpg
+      alt: Oak Ridge National Laboratory
     - image: /images/brands/softstuflogo.webp
       alt: SoftStuf
     - image: /images/brands/morsemicrologo.webp
@@ -60,7 +62,7 @@ feature:
 #Services
 services:
   - title: Cost & Time Efficient With Rapid Speed-to-Value. 
-    description: Harnessing existing broadband infrastructure enables rapid and cost-effective deployment at scale. Our GVP "blue box" provides continuous point-on-wave monitoring at 10,000 samples per second, with .5 microsecond time stamps. With a 15-minute broadband UPS retrofit, we realize a rapid time-to-data. We're not limited by bandwidth because we employ the $2 trillion broadband investment already made.
+    description: Harnessing existing broadband infrastructure enables rapid and cost-effective deployment at scale. Our GVP "blue box" provides continuous point-on-wave monitoring at 10,000 samples per second, with .5 microsecond accurate time stamps. With a 15-minute broadband UPS retrofit, we realize a rapid time-to-data. We're not limited by bandwidth because we employ the $2 trillion broadband investment already made.
     slider_images:
       - /images/services/GV_WebsitePics_Various_9Color.png
   - title: Reliable, Resilient, Secure & Independent. 

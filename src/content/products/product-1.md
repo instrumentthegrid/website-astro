@@ -30,12 +30,12 @@ services:
   - title : "Model Validation"
     slider_images:
     - "/images/products/ROCOV.png"
-    description : "APIs and ad hoc data downloads (COMTRADE, csv, etc.) provide high fidelity, GPS time synchronized distribution data for model validation, training, and live model support. By default, the GVP supplies voltage, frequency, and the rates-of-change per unit or per value."
+    description : "APIs and ad hoc data downloads (COMTRADE, csv, etc.) provide high fidelity, GPS time synchronized distribution data for model validation, training, and live model support. By default, the GVP supplies voltage, frequency, and their rates-of-changes."
 
   - title : "Event Analysis"
     slider_images:
     - "/images/products/Event Analysis.png"
-    description : "Time synchronized, high fidelity, raw waveform event data is aggregated and accessible through the GVP analytical tools. These tools and event data support unprecedented post-event analysis capabilities, including playbacks, heat maps and adjustable thresholds for metrics voltage and frequency. The GridVisibility platform is reliable and resilient, providing additional 4+ hr battery-backed ride through for grid visibility. This capability enables previously impossible outage event data streams."
+    description : "Time synchronized, high fidelity, raw waveform event data is aggregated and accessible through the GVP analytical tools. These tools and event data support unprecedented post-event analysis capabilities, including playbacks, heat maps and adjustable thresholds for voltage and frequency metrics. The GridVisibility platform is reliable and resilient, providing additional 4+ hr battery-backed ride through for grid visibility. This capability enables previously impossible outage event data streams."
       
   - title : "Situational Awareness"
     slider_images:
