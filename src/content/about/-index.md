@@ -16,10 +16,10 @@ goal:
   designation: Co-founder & CEO -- GridVisibility, inc.
 
 goal_two:
-  name: Firsty McLasty
-  description: "Description"
-  avatar: /images/GV_Website_Grey_HOLD.pngO
-  designation: "Designation"
+  name: Steve Glennon
+  description: "The GridVisibility Platform is conceptually simple, but supported by a sophisticated data architecture that enables virtually unlimited bandwidth and cloud compute for grid monitoring and management. We’ve built a system that is secure by design, resilient, and infrastructure scalable. GVP brings next level capabilities to grid instrumentation."
+  avatar: /images/GV_Website_Grey_HOLD.png
+  designation: "Co-founder & CTO -- GridVisibility, inc."
 
 lists:
   - title: Who we are?
