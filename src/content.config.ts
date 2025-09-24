@@ -10,7 +10,7 @@ import {
   howItWorks,
   pages,
   pricing,
-  products,
+  services,
   team,
 } from "./types/pages.collections";
 import { testimonialSection } from "./types/sections.collections";
@@ -29,7 +29,7 @@ export const collections = {
   howItWorks,
   pages,
   pricing,
-  products,
+  services,
   team,
 
   // Sections

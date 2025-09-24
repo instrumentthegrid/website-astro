@@ -378,10 +378,10 @@ export const pricing = defineCollection({
   }),
 });
 
-export const products = defineCollection({
+export const services = defineCollection({
   loader: glob({
     pattern: "**/*.{md,mdx}",
-    base: "src/content/products",
+    base: "src/content/services",
   }),
   schema: z.object({
     title: z.string(),
@@ -403,7 +403,7 @@ export const products = defineCollection({
         }),
       })
       .optional(),
-    about_this_product: z
+    about_this_service: z
       .object({
         enable: z.boolean(),
         title: z.string(),
@@ -417,7 +417,7 @@ export const products = defineCollection({
         ),
       })
       .optional(),
-    product_info: z
+    service_info: z
       .object({
         enable: z.boolean(),
         title: z.string(),

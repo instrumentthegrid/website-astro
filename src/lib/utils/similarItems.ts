@@ -1,4 +1,4 @@
-// similer products
+// similer services
 const similerItems = (currentItem: any, allItems: any, slug: string) => {
   let categories: string[] = [];
   let tags: string[] = [];
@@ -27,7 +27,7 @@ const similerItems = (currentItem: any, allItems: any, slug: string) => {
   const mergedItems = [...new Set([...filterByCategories, ...filterByTags])];
 
   // filter by slug
-  const filterBySlug = mergedItems.filter((product) => product.slug !== slug);
+  const filterBySlug = mergedItems.filter((service) => service.slug !== slug);
 
   return filterBySlug;
 };

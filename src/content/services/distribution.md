@@ -23,13 +23,13 @@ services:
   block:
   - title : "Frequency & voltage transient detection & alerts"
     slider_images:
-    - "/images/products/Volt_Freq_Low.jpg"
+    - "/images/services/Volt_Freq_Low.jpg"
 
     description : "GridVisibility exposes voltage and frequency fluctuations, their rates of change, volt-var impacts, transients, harmonic distortions, and a myriad of new disturbances negatively impacting your assets and customer power quality. GridVisibility is shifting the paradigm for utility asset management professionals with continuous, low latency, high fidelity, point on wave monitoring and alerts, 24/7/365."
       
   - title : "Fault analysis & FLISR applications"
     slider_images:
-    - "/images/products/GV_WebsitePics_Waveform2.png"
+    - "/images/services/GV_WebsitePics_Waveform2.png"
     description : "With unprecedented fidelity, GridVisibility uncovers arcing faults, equipment-related faults, or transients. The GridVisibility Platform ties raw sensor data to the grid topology - substation, feeder, phase - and then represents those data/events geospatially via Google Maps. GVP identifies, logs, alerts, and supports visual analytics, including playback, threshold analysis, and fault location solutions, like Softstuf's Wavewin application."
       
   - title : "IBR ride through performance analysis"
@@ -39,7 +39,7 @@ services:
       
   - title : "Power quality, harmonics & oscillation visibility"
     slider_images:
-    - "/images/products/AdvancedAnalysis_Low.jpg"
+    - "/images/services/AdvancedAnalysis_Low.jpg"
     description : "To address power quality, harmonics, and oscillation issues, arising from IBRs and large loads (like data centers), high fidelity waveform data is essential. Further, GridVisibility’s .5 microsecond accuracy time synchronization enables the identification of correlative behaviors across feeders and phases."
 
   - title : "Grid topology updates from restoration activities"

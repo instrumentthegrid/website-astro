@@ -21,19 +21,19 @@
       ]
     },
     {
-      "name": "Platforms",
+      "name": "Platform",
       "hasChildren": true,
       "children": [
         {
           "name": "Transmission",
           "description": "Transmission Utility Use Cases",
-          "url": "/products/product-1",
+          "url": "/services/transmission",
           "icon": "FaBolt"
         },
         {
           "name": "Distribution",
           "description": "Distribution Utility Use Cases",
-          "url": "/products/product-2",
+          "url": "/services/distribution",
           "icon": "FaPlug"
         }
       ]
@@ -70,15 +70,15 @@
       ]
     },
     {
-      "name": "Product",
+      "name": "Platform",
       "menu": [
         {
           "name": "Transmission",
-          "url": "/products/product-1"
+          "url": "/services/transmission"
         },
         {
           "name": "Distribution",
-          "url": "/products/product-2"
+          "url": "/services/distribution"
         }
       ]
     },

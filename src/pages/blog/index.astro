@@ -15,8 +15,8 @@ import { type CollectionEntry, getEntry } from "astro:content";
 const { blog_folder, pagination } = settings;
 const { data } = (await getEntry("blog", "-index")) as CollectionEntry<"blog">;
 const posts = await getSinglePage("blog");
-const sortedProducts = sortByDate(posts) as CollectionEntry<"blog">[];
-const currentPosts = sortedProducts.slice(0, pagination);
+const sortedServices = sortByDate(posts) as CollectionEntry<"blog">[];
+const currentPosts = sortedServices.slice(0, pagination);
 const featuredPosts = posts.filter((post) => post.data.type === "featured");
 const totalPages = Math.ceil(posts.length / pagination);
 ---
