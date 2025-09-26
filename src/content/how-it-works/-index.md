@@ -20,7 +20,7 @@ intro_video:
   title: "Built exclusively for you"
   content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin."
   video_id: "dyZcRRWiuuw"
-  video_thumbnail: "/images/products/1.webp"
+  video_thumbnail: "/images/services/1.webp"
 
 #how_it_works
 how_it_works:

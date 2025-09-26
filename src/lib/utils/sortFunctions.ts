@@ -8,7 +8,7 @@ export const sortByDate = (array: any[]) => {
   return sortedArray;
 };
 
-// sort product by weight
+// sort service by weight
 export const sortByWeight = (array: any[]) => {
   const withWeight = array.filter(
     (item: { data: { weight: any } }) => item.data.weight,
