@@ -28,5 +28,5 @@ testimonials:
   - name: Stan Hoptroff
     designation: President - Hoptroff & Co. // Former NERC VP & CTO
     avatar: "/images/authors/Stan.png"
-    content: <i>GridVisibility's solution provides a truly unique "outside/in" view of the grid's performance. Not only is the GridVisibility Platform complimentary to existing utility performance monitoring solutions, but it provides a system-wide perspective we’ve never had before, along with an additional level of resiliency that will benefit many utilities and their customers. Bottom line. Resiliency and reliable performance of the electric grid is in everyone's best interest…and GridVisibility will be an important part of the solution.</i>
+    content: <i>GridVisibility's solution provides a truly unique "outside/in" view of the grid's performance. Not only is the GridVisibility Platform complimentary to existing utility performance monitoring solutions, but it provides a system-wide perspective we’ve never had before, along with an additional level of resiliency that will benefit many utilities and their customers. Bottom line, resiliency and reliable performance of the electric grid is in everyone's best interest…and GridVisibility will be an important part of the solution.</i>
 ---
