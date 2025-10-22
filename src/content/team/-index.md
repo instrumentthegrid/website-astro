@@ -9,7 +9,7 @@ draft: false
 team_members:
   - name: "Scott L Caruso"
     designation: "Co-Founder & CEO"
-    image: ""
+    image: "/images/team/caruso.jpeg"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -17,7 +17,7 @@ team_members:
 
   - name: "Steve Glennon"
     designation: "Co-Founder & CTO"
-    image: ""
+    image: "/images/team/glennon.jpeg"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -25,7 +25,7 @@ team_members:
 
   - name: "William Glennon"
     designation: "Software Engineer"
-    image: ""
+    image: "/images/team/wglennon.jpeg"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -33,7 +33,7 @@ team_members:
 
   - name: "Mike Walker"
     designation: "Operations"
-    image: ""
+    image: "/images/team/walker.jpeg"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -41,7 +41,7 @@ team_members:
 
   - name: "Ralph Brown"
     designation: "R&D"
-    image: ""
+    image: "/images/team/brown.jpeg"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -49,7 +49,7 @@ team_members:
 
   - name: "Matthew Burks"
     designation: "Market Development"
-    image: ""
+    image: "/images/team/burks.jpeg"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -57,7 +57,7 @@ team_members:
 
   - name: "James Denesha"
     designation: "Senior Software Engineer"
-    image: ""
+    image: "/images/team/denesha.jpeg"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
@@ -65,7 +65,7 @@ team_members:
 
   - name: "Phil Rosenberg-Watt"
     designation: "Infrastructure"
-    image: ""
+    image: "/images/team/watt.jpeg"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
