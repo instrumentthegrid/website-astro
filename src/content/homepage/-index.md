@@ -52,12 +52,12 @@ feature:
       icon: "FaBinoculars"
       content: Dashboards providing continuous, low-latency feedback, 365/24/7, encompassing utility defined alerts and awareness parameters.
 
-# # workflow
-# workflow:
-#   title: Not More Data. Continuous & Holistic Grid Insight!
-#   description: Independent & secure continuous awareness of grid conditions and behaviors.
-#   image: /images/video-popup.webp
-#   video_id: "dyZcRRWiuuw"
+# workflow
+workflow:
+  title: "Powering the Network:<br />Insight from the Grid"
+  description: View our panel discussion from SCTE Energy 20/20 featuring Ralph Brown, Scott L Caruso, and Willie Phillips.
+  image: /images/SCTE_PoweringTheNetwork_Thumbnail_HQ.png
+  video_id: "gRqCAes9Trs"
 
 #Services
 services:

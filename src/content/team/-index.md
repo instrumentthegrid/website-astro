@@ -2,7 +2,7 @@
 title: "The GridVisibility Team"
 subtitle: ""
 # meta description
-description: "Vestibulum ante ipsum primis in faucibus orci luctus ultrices posuere cubilia Curae Donec"
+description: "Meet our team members"
 draft: false
 
 # team_members
@@ -23,13 +23,6 @@ team_members:
         icon: "FaLinkedin"
         link: "https://www.linkedin.com/in/steveglennon/"
 
-  - name: "William Glennon"
-    designation: "Software Engineer"
-    image: "/images/team/wglennon.jpeg"
-    social_profile:
-      - name: "Linkedin"
-        icon: "FaLinkedin"
-        link: "https://www.linkedin.com/in/will-glennon/"
 
   - name: "Mike Walker"
     designation: "Operations"
@@ -70,4 +63,12 @@ team_members:
       - name: "Linkedin"
         icon: "FaLinkedin"
         link: "https://www.linkedin.com/in/philiprosenbergwatt/"
+
+  - name: "William Glennon"
+    designation: "Software Engineer"
+    image: "/images/team/wglennon.jpeg"
+    social_profile:
+      - name: "Linkedin"
+        icon: "FaLinkedin"
+        link: "https://www.linkedin.com/in/will-glennon/"
 ---
