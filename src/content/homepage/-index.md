@@ -55,7 +55,7 @@ feature:
 # workflow
 workflow:
   title: "Powering the Network:<br />Insight from the Grid"
-  description: View our panel discussion from SCTE Energy 20/20 featuring Willie Phillips, Scott L Caruso, and Ralph Brown.
+  description: View our panel discussion from SCTE Energy 20/20 featuring Ralph Brown, Scott L Caruso, and Willie Phillips.
   image: /images/SCTE_PoweringTheNetwork_Thumbnail_HQ.png
   video_id: "gRqCAes9Trs"
 
