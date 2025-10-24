@@ -55,7 +55,7 @@ feature:
 # workflow
 workflow:
   title: "Powering the Network:<br />Insight from the Grid"
-  description: See our panel discussion from SCTE Energy 20/20
+  description: View our panel discussion from SCTE Energy 20/20
   image: /images/SCTE_PoweringTheNetwork_Thumbnail_HQ.png
   video_id: "gRqCAes9Trs"
 
