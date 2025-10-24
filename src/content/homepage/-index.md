@@ -56,7 +56,7 @@ feature:
 workflow:
   title: Not More Data. Continuous & Holistic Grid Insight!
   description: Independent & secure continuous awareness of grid conditions and behaviors.
-  image: /images/video-popup.webp
+  image: /images/SCTE_PoweringTheNetwork_Thumbnail_HQ.png
   video_id: "dyZcRRWiuuw"
 
 #Services
