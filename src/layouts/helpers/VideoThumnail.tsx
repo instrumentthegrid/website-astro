@@ -27,7 +27,7 @@ const VideoThumnail = ({ src, videoId }: { src: string; videoId: string }) => {
       {play && (
         <iframe
           className="w-full h-full absolute top-0 left-0 z-20"
-          src={`https://www.youtube.com/embed/${videoId}?autoplay=1&mute=1`}
+          src={`https://www.youtube.com/embed/${videoId}?autoplay=1`}
         />
       )}
     </div>
