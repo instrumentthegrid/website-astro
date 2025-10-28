@@ -55,8 +55,8 @@ feature:
 # workflow
 workflow:
   title: "Powering the Network:<br />Insight from the Grid"
-  description: View our panel discussion from SCTE Energy 20/20 featuring Ralph Brown, Scott L Caruso, and Willie Phillips.
   image: /images/SCTE_PoweringTheNetwork_Thumbnail_HQ.png
+  description: 'View our panel discussion from SCTE Energy 20/20 featuring <u><a href="https://www.hklaw.com/en/professionals/p/phillips-willie-l" target="_blank">Willie Phillips</a></u> (former FERC and DCPSC Chair), <u><a href="https://www.linkedin.com/in/ryan-capone-77105492" target="_blank">Ryan Capone</u> (VP Network Facilities and Energy, Comcast), <u>[Scott L Caruso](/team)</u> (CEO, GridVisibility), and <u>[Ralph Brown](/team)</u> (former CTO, CableLabs).'
   video_id: "gRqCAes9Trs"
 
 #Services
