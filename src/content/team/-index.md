@@ -71,4 +71,12 @@ team_members:
       - name: "Linkedin"
         icon: "FaLinkedin"
         link: "https://www.linkedin.com/in/will-glennon/"
+
+  - name: "Dan Kopin"
+    designation: "Head of Product"
+    image: "/images/team/kopin.jpg"
+    social_profile:
+      - name: "Linkedin"
+        icon: "FaLinkedin"
+        link: "https://www.linkedin.com/in/daniel-kopin/"
 ---
