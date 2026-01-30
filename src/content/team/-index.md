@@ -64,14 +64,6 @@ team_members:
         icon: "FaLinkedin"
         link: "https://www.linkedin.com/in/james-denesha/"
 
-  - name: "Phil Rosenberg-Watt"
-    designation: "Infrastructure"
-    image: "/images/team/watt.jpeg"
-    social_profile:
-      - name: "Linkedin"
-        icon: "FaLinkedin"
-        link: "https://www.linkedin.com/in/philiprosenbergwatt/"
-
   - name: "William Glennon"
     designation: "Software Engineer"
     image: "/images/team/wglennon.jpeg"
@@ -79,5 +71,13 @@ team_members:
       - name: "Linkedin"
         icon: "FaLinkedin"
         link: "https://www.linkedin.com/in/will-glennon/"
+
+  - name: "Phil Rosenberg-Watt"
+    designation: "Infrastructure"
+    image: "/images/team/watt.jpeg"
+    social_profile:
+      - name: "Linkedin"
+        icon: "FaLinkedin"
+        link: "https://www.linkedin.com/in/philiprosenbergwatt/"
 
 ---
