@@ -48,6 +48,14 @@ team_members:
         icon: "FaLinkedin"
         link: "https://www.linkedin.com/in/mattburks/"
 
+  - name: "Dan Kopin"
+    designation: "Product"
+    image: "/images/team/kopin.jpg"
+    social_profile:
+      - name: "Linkedin"
+        icon: "FaLinkedin"
+        link: "https://www.linkedin.com/in/daniel-kopin/"
+
   - name: "James Denesha"
     designation: "Senior Software Engineer"
     image: "/images/team/denesha.jpeg"
@@ -55,14 +63,6 @@ team_members:
       - name: "Linkedin"
         icon: "FaLinkedin"
         link: "https://www.linkedin.com/in/james-denesha/"
-
-  - name: "Phil Rosenberg-Watt"
-    designation: "Infrastructure"
-    image: "/images/team/watt.jpeg"
-    social_profile:
-      - name: "Linkedin"
-        icon: "FaLinkedin"
-        link: "https://www.linkedin.com/in/philiprosenbergwatt/"
 
   - name: "William Glennon"
     designation: "Software Engineer"
@@ -72,11 +72,12 @@ team_members:
         icon: "FaLinkedin"
         link: "https://www.linkedin.com/in/will-glennon/"
 
-  - name: "Dan Kopin"
-    designation: "Head of Product"
-    image: "/images/team/kopin.jpg"
+  - name: "Phil Rosenberg-Watt"
+    designation: "Infrastructure"
+    image: "/images/team/watt.jpeg"
     social_profile:
       - name: "Linkedin"
         icon: "FaLinkedin"
-        link: "https://www.linkedin.com/in/daniel-kopin/"
+        link: "https://www.linkedin.com/in/philiprosenbergwatt/"
+
 ---
