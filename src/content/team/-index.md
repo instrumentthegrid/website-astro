@@ -48,6 +48,14 @@ team_members:
         icon: "FaLinkedin"
         link: "https://www.linkedin.com/in/mattburks/"
 
+  - name: "Dan Kopin"
+    designation: "Product"
+    image: "/images/team/kopin.jpg"
+    social_profile:
+      - name: "Linkedin"
+        icon: "FaLinkedin"
+        link: "https://www.linkedin.com/in/daniel-kopin/"
+
   - name: "James Denesha"
     designation: "Senior Software Engineer"
     image: "/images/team/denesha.jpeg"
@@ -72,11 +80,4 @@ team_members:
         icon: "FaLinkedin"
         link: "https://www.linkedin.com/in/will-glennon/"
 
-  - name: "Dan Kopin"
-    designation: "Head of Product"
-    image: "/images/team/kopin.jpg"
-    social_profile:
-      - name: "Linkedin"
-        icon: "FaLinkedin"
-        link: "https://www.linkedin.com/in/daniel-kopin/"
 ---
