@@ -4,3 +4,8 @@ command = "npm run build"
 
 [build.environment]
 NODE_VERSION = "22"
+
+[[headers]]
+  for = "/.well-known/com.apple.remotemanagement"
+  [headers.values]
+    Content-Type = "application/json"
