@@ -1,0 +1,8 @@
+{
+  "Servers": [
+    {
+      "BaseURL": "https://apple.mdm.jumpcloud.com/user-enroll?organization_id=6827ae4e7cf564fdcb2fba0a",
+      "Version": "mdm-byod"
+    }
+  ]
+}
