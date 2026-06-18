@@ -31,7 +31,7 @@ brands_images:
 
 # feature
 feature:
-  title: The AI Grid Doesn’t Stop @ 100kV - 60% of data centers will connect at distribution
+  title: 60% of Data Centers Will Connect at Distribution
   description: These facilities represent some of the largest individual loads on a utility system, so sudden changes in computing workloads cause rapid shifts in power demand...and reliability problems for the grid.
 
   button:
