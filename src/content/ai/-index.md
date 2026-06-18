@@ -1,8 +1,8 @@
 ---
 banner:
-  title: Artificial Intelligence - Realizing AI's Promise Through Reliable Power & Unprecedented Data
-  content: Enabling the AI revolution with real-time, all-the-time, electrical data; enabling unprecedented visibility and situational awareness of distribution grid behaviors.
-  image: /images/GridVisibility_DistGrid_1.png
+  title: Harmonizing AI Infrastructure at the Nexus of Power, Communications and Applied AI 
+  content: GridVisibility realizes the next generation of critical infrastructure through the convergence of the power, communications, and AI industries.
+  image: /images/GV_AI_Trifecta2.png
   conclusion: The paradigm shifting solution for state-of-the-grid visibility.
 
   button:
@@ -31,8 +31,8 @@ brands_images:
 
 # feature
 feature:
-  title: Today's Grid Doesn’t Stop @ 100kV
-  description: 60% of data centers will connect at distribution; But actionable state of the grid data does not exist today.
+  title: The AI Grid Doesn’t Stop @ 100kV - 60% of data centers will connect at distribution
+  description: These facilities represent some of the largest individual loads on a utility system, so sudden changes in computing workloads cause rapid shifts in power demand...and reliability problems for the grid.
 
   button:
     label: Request Demo
@@ -64,19 +64,19 @@ services:
   - title: The AI and Power Relationship 
     description: Traditional enterprise data centers support corporate IT operations and have moderate, predictable power demands. However, the new generation of AI and high-performance computing (HPC) data centers, representing the fastest-growing data center segment, have extremely dense computing loads, rapid fluctuations in power demand, and unprecedented energy consumption. Sudden changes in computing workloads cause rapid shifts in power demand, so concentrated clusters of data centers (like Northern Virginia, Texas, the Midwest, Arizona, and Georgia) not only place significant stress on local substations, but their broader regional transmission networks.
     slider_images:
-      - /images/services/GV_WebsitePics_Various_7.png
-  - title: AI Harmonics and Grid Reliability Risks 
+      - /images/services/GV_DistGrid_1.png
+  - title: AI Induced Harmonics and Oscillations Impact Grid Stability 
     description: Data center non-linear loads create distorted waveforms that interfere with the normal operation of electrical equipment. As the concentration of data centers increase, harmonics are starting to negatively impact both utility infrastructure, customer-owned assets, and grid reliability. Harmonic distortions degrade sensitive electronics, inaccurate measurements, and premature equipment failure. Harmonics have also cause catastrophic, cascading generation failures, making data centers a direct and present reliability risk to bulk and distribution networks.
     slider_images:
       - /images/services/GV_WebsitePics_Various_8.png
-  - title: Proactive Harmonic Distortion Response
+  - title: Proactive Response Requires Aggregated Low Latency Awareness
     description: Data center sub second fluctuations at MW scales present an entirely new risk to the US grid. “Harmonic management” is no longer a long-term strategic planning exercise, but a highly sophisticated, automated response platform operating at millisecond speeds…everywhere and all-the-time. Proactively peserving grid reliability, efficiency, and long-term health is the only viable path through scaled data center expansion.
     slider_images:
-      - /images/services/GV_WebsitePics_Various_3.png
-  - title: The Future of AI’s Power
-    description: Successful data center integration will depend on careful planning, rigorous power quality analysis, strategic investments in grid infrastructure, and dynamically dispatchable, “virtual power plants” at scale. Public and private organizations that understand these challenges, including the in-depth dynamics of their electric grids, will be significantly better positioned to support data center and AI growth, while maintaining the reliability, resilience, and power quality that modern economies depend on.
+      - /images/services/GV_WebsitePics_Various_7.png
+  - title: Today's Intrastructure = Communications + Power + AI
+    description: Successful data center integration will depend on careful planning, rigorous power quality analysis, strategic investments in grid infrastructure, and dynamically dispatchable, “virtual power plants” at scale. The future is applying AI with our data to automate grid management. We're automating and mitigating through. Public and private organizations that understand these challenges, including the in-depth dynamics of their electric grids, will be significantly better positioned to support data center and AI growth, while maintaining the reliability, resilience, and power quality that modern economies depend on.
     slider_images:
-      - /images/GridVisibility_DistGrid_1.png
+      - /images/services/GV_DistGrid_1.png
   - title: About GridVisibility
     description: GridVisibility harnesses the existing broadband infrastructure to rapidly deliver real-time, all-the-time, electrical data; enabling unprecedented visibility and situational awareness of distribution grid behaviors. Our platform's unique technical and business characteristics create previously impossible grid visibility and enable associated value streams at scale. Specific to artificial intelligence, deployment of GVP sensors in regions with high data center concentrations will provide essential visibility into grid behaviors and provide insights into grid reliability improvements. Additionally, increased grid visibility provides visibility into incipient events leading to distribution grid outages, allowing proactive remediation before outages occur.
     slider_images:
