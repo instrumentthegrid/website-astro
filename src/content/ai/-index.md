@@ -32,7 +32,7 @@ brands_images:
 # feature
 feature:
   title: Today's Grid Doesn’t Stop @ 100kV
-  description: 60% of data centers will connect at distribution, but actionable state of the grid data does not exist today.
+  description: 60% of data centers will connect at distribution; But actionable state of the grid data does not exist today.
 
   button:
     label: Request Demo
@@ -64,7 +64,7 @@ services:
   - title: The AI and Power Relationship 
     description: Traditional enterprise data centers support corporate IT operations and have moderate, predictable power demands. However, the new generation of AI and high-performance computing (HPC) data centers, representing the fastest-growing data center segment, have extremely dense computing loads, rapid fluctuations in power demand, and unprecedented energy consumption. Sudden changes in computing workloads cause rapid shifts in power demand, so concentrated clusters of data centers (like Northern Virginia, Texas, the Midwest, Arizona, and Georgia) not only place significant stress on local substations, but their broader regional transmission networks.
     slider_images:
-      - /images/services/GV_WebsitePics_Various_9Color.png
+      - /images/services/GV_WebsitePics_Various_7.png
   - title: AI Harmonics and Grid Reliability Risks 
     description: Data center non-linear loads create distorted waveforms that interfere with the normal operation of electrical equipment. As the concentration of data centers increase, harmonics are starting to negatively impact both utility infrastructure, customer-owned assets, and grid reliability. Harmonic distortions degrade sensitive electronics, inaccurate measurements, and premature equipment failure. Harmonics have also cause catastrophic, cascading generation failures, making data centers a direct and present reliability risk to bulk and distribution networks.
     slider_images:
@@ -76,11 +76,11 @@ services:
   - title: The Future of AI’s Power
     description: Successful data center integration will depend on careful planning, rigorous power quality analysis, strategic investments in grid infrastructure, and dynamically dispatchable, “virtual power plants” at scale. Public and private organizations that understand these challenges, including the in-depth dynamics of their electric grids, will be significantly better positioned to support data center and AI growth, while maintaining the reliability, resilience, and power quality that modern economies depend on.
     slider_images:
-      - /images/services/GV_WebsitePics_Various_7.png
+      - /images/GridVisibility_DistGrid_1.png
   - title: About GridVisibility
-    description: GridVisibility harnesses the existing broadband infrastructure to rapidly deliver real-time, all-the-time, electrical data; enabling unprecedented visibility and situational awareness of distribution grid behaviors. Our platform's unique technical and business characteristics create previously impossible grid visibility and enable associated value streams at scale. Specific to artificial intelligence, data centers and IBRs are negatively impacting power quality and grid reliability. Deployment of GVP sensors in these areas will increase visibility into grid behaviors and provide insights into how grid reliability can be improved. Outside of this increased visibility into the distribution grid more broadly provides visibility into incipient events leading to distribution grid outages, allowing proactive remediation before the outage can occur.
+    description: GridVisibility harnesses the existing broadband infrastructure to rapidly deliver real-time, all-the-time, electrical data; enabling unprecedented visibility and situational awareness of distribution grid behaviors. Our platform's unique technical and business characteristics create previously impossible grid visibility and enable associated value streams at scale. Specific to artificial intelligence, deployment of GVP sensors in regions with high data center concentrations will provide essential visibility into grid behaviors and provide insights into grid reliability improvements. Additionally, increased grid visibility provides visibility into incipient events leading to distribution grid outages, allowing proactive remediation before outages occur.
     slider_images:
-      - /images/services/GV_WebsitePics_Various_7.png
+      - /images/services/GV_WebsitePics_Various_9Color.png
 
 
 # Integrate
