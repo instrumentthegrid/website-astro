@@ -10,24 +10,6 @@ banner:
     label: "Request Demo"
     link: "/contact"
 
-#Brands Slider
-brands_images:
-  title: Our Collaborators
-  lists:
-    - image: /images/brands/comcastlogo.png
-      alt: Comcast
-    - image: /images/brands/velcologo.webp
-      alt: Velco
-    - image: /images/brands/veclogo.webp
-      alt: VEC
-    - image: /images/brands/elevatelogo.webp
-      alt: Elevate
-    - image: /images/brands/ORNLlogo.jpg
-      alt: Oak Ridge National Laboratory
-    - image: /images/brands/softstuflogo.webp
-      alt: SoftStuf
-    - image: /images/brands/morsemicrologo.webp
-      alt: MorseMicro
 
 # feature
 feature:
@@ -52,12 +34,12 @@ feature:
       icon: "FaBinoculars"
       content: AI Inference data centers draw highly unpredictable loads, causing unprecedented reliability challenges as they scale. 
 
-# workflow
-workflow:
-  title: "Powering the Network:<br />Insight from the Grid"
-  image: /images/SCTE_PoweringTheNetwork_Thumbnail_HQ.png
-  description: 'View our panel discussion from SCTE Energy 20/20 featuring <u><a href="https://www.hklaw.com/en/professionals/p/phillips-willie-l" target="_blank">Willie Phillips</a></u> (former FERC and DCPSC Chair), <u><a href="https://www.linkedin.com/in/rcap1/" target="_blank">Ryan Capone</u> (VP Network Facilities and Energy, Comcast), <u>[Scott L Caruso](/team)</u> (CEO, GridVisibility), and <u>[Ralph Brown](/team)</u> (former CTO, CableLabs).'
-  video_id: "gRqCAes9Trs"
+# # workflow
+# workflow:
+#   title: "Powering the Network:<br />Insight from the Grid"
+#   image: /images/SCTE_PoweringTheNetwork_Thumbnail_HQ.png
+#   description: 'View our panel discussion from SCTE Energy 20/20 featuring <u><a href="https://www.hklaw.com/en/professionals/p/phillips-willie-l" target="_blank">Willie Phillips</a></u> (former FERC and DCPSC Chair), <u><a href="https://www.linkedin.com/in/rcap1/" target="_blank">Ryan Capone</u> (VP Network Facilities and Energy, Comcast), <u>[Scott L Caruso](/team)</u> (CEO, GridVisibility), and <u>[Ralph Brown](/team)</u> (former CTO, CableLabs).'
+#   video_id: "gRqCAes9Trs"
 
 #Services
 services:
