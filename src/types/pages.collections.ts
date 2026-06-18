@@ -91,15 +91,15 @@ export const ai = defineCollection({
         link: z.string(),
       }),
     }),
-    brands_images: z.object({
-      title: z.string(),
-      lists: z.array(
-        z.object({
-          image: z.string(),
-          alt: z.string(),
-        }),
-      ),
-    }),
+    // brands_images: z.object({
+    //   title: z.string(),
+    //   lists: z.array(
+    //     z.object({
+    //       image: z.string(),
+    //       alt: z.string(),
+    //     }),
+    //   ),
+    // }),
     feature: z.object({
       title: z.string(),
       description: z.string(),
@@ -116,12 +116,12 @@ export const ai = defineCollection({
         }),
       ),
     }),
-    workflow: z.object({
-      title: z.string(),
-      description: z.string(),
-      image: z.string(),
-      video_id: z.string(),
-    }),
+    // workflow: z.object({
+    //   title: z.string(),
+    //   description: z.string(),
+    //   image: z.string(),
+    //   video_id: z.string(),
+    // }),
     services: z.array(
       z.object({
         title: z.string(),
