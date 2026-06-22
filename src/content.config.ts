@@ -1,5 +1,6 @@
 import {
   about,
+  ai,
   authors,
   blog,
   career,
@@ -19,6 +20,7 @@ import { testimonialSection } from "./types/sections.collections";
 export const collections = {
   // Pages
   about,
+  ai,
   authors,
   blog,
   career,

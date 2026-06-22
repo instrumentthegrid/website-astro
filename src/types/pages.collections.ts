@@ -74,6 +74,81 @@ export const about = defineCollection({
   }),
 });
 
+export const ai = defineCollection({
+  loader: glob({
+    pattern: "**/-*.{md,mdx}",
+    base: "src/content/ai",
+  }),
+  schema: z.object({
+    banner: z.object({
+      title: z.string(),
+      content: z.string(),
+      image: z.string(),
+      conclusion: z.string(),
+      button: z.object({
+        enable: z.boolean(),
+        label: z.string(),
+        link: z.string(),
+      }),
+    }),
+    // brands_images: z.object({
+    //   title: z.string(),
+    //   lists: z.array(
+    //     z.object({
+    //       image: z.string(),
+    //       alt: z.string(),
+    //     }),
+    //   ),
+    // }),
+    feature: z.object({
+      title: z.string(),
+      description: z.string(),
+      button: z.object({
+        label: z.string(),
+        link: z.string(),
+        enable: z.boolean(),
+      }),
+      features: z.array(
+        z.object({
+          name: z.string(),
+          icon: z.string(),
+          content: z.string(),
+        }),
+      ),
+    }),
+    // workflow: z.object({
+    //   title: z.string(),
+    //   description: z.string(),
+    //   image: z.string(),
+    //   video_id: z.string(),
+    // }),
+    services: z.array(
+      z.object({
+        title: z.string(),
+        description: z.string(),
+        slider_images: z.array(z.string()),
+      }),
+    ),
+    // integrate: z.object({
+    //   title: z.string(),
+    //   content: z.string(),
+    //   image: z.string(),
+    //   tools: z.array(z.string()),
+    // }),
+    annoucement: z.object({
+      image: z.string(),
+      title: z.string(),
+      description: z.string(),
+      button: z.object({
+        label: z.string(),
+        link: z.string(),
+        enable: z.boolean(),
+      }),
+    }),
+  }),
+});
+
+
 export const authors = defineCollection({
   loader: glob({
     pattern: "**/*.{md,mdx}",
