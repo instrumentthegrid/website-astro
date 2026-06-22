@@ -9,3 +9,27 @@ NODE_VERSION = "22"
   for = "/.well-known/com.apple.remotemanagement"
   [headers.values]
     Content-Type = "application/json"
+
+[[redirects]]
+  from = "https://gridvisibility.ai/"
+  to = "https://gridvisibility.com/ai"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "https://www.gridvisibility.ai/"
+  to = "https://www.gridvisibility.com/ai"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "https://gridvisibility.ai/*"
+  to = "https://gridvisibility.com/:splat"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.gridvisibility.ai/*"
+  to = "https://www.gridvisibility.com/:splat"
+  status = 302
+  force = true
