@@ -40,6 +40,10 @@
 
     },
     {
+      "name": "AI",
+      "url": "/ai"
+    },
+    {
       "name": "Resources",
       "hasChildren": true,
       "children": [
@@ -83,6 +87,10 @@
         {
           "name": "Distribution",
           "url": "/services/distribution"
+        },
+        {
+          "name": "AI",
+          "url": "/ai"
         }
       ]
     },
