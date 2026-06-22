@@ -24,9 +24,9 @@ feature:
     - name: "Reliability Oversight + NERC/FERC Compliance"
       icon: "FaLock"
       content: ISO/RTO/RC/TOs oversee reliability for the bulk power system, but only “see” bulk power and transmission; Except the grid doesn’t stop at transmission. Additionally, NERC/FERC are now aggressively responding to data center and large load impacts on grid reliability through IBR-related interconnect, compliance & reporting requirements. GridVisibility has the data you need.
-    - name: "Grid-Enhancing Technologies (GETs) - Manage What You Can See"
+    - name: "Grid-Enhancing Technologies (GETs)"
       icon: "FaCheck"
-      content: GETS optimize the capacity, efficiency, and flexibility of existing power infrastructure, offering faster and cheaper alternatives traditional grid steel-in-the-ground investments. GridVisibility provides the necessary state-of-the-grid data for grids to operate closer to their known power delivery capacity. You can't manage what you can't see, so GridVisibility makes the grid visible.
+      content: GETS optimize the capacity, efficiency, and flexibility of existing power infrastructure, offering faster and cheaper alternatives traditional grid investments. GridVisibility provides the necessary state-of-the-grid data for grids to operate closer to their known power delivery capacity. You can't manage what you can't see, so GridVisibility makes the grid visible.
     - name: "Bulk Power Impact"
       icon: "FaChartLine"
       content: General AI & LLM Training Data Centers cause large power fluctuations on bulk power systems, representing reliability and cascading outage risk. GridVisibility "sees" the grid in high fidelity 24/7/365, so potential risks can be identified before they become problems.
@@ -58,7 +58,7 @@ services:
   - title: Today's Infrastructure = Communications + Power + AI
     description: Successful data center integration will depend on careful planning, rigorous power quality analysis, strategic investments in grid infrastructure, and dynamically dispatchable, “virtual power plants” at scale. The future is applying AI to GridVisibility data for automated grid management, which requires secure, high-speed, and cost effective communications. Public and private organizations that understand these challenges, including the in-depth dynamics of their electric grids, will be significantly better positioned to support data center/AI and large growth, while maintaining the reliability, resilience, and power affordability that modern economies depend on.
     slider_images:
-      - /images/services/GV_NationalView_SinglePane1.jpg
+      - /images/services/GV_NationalView1.jpg
   - title: About GridVisibility
     description: GridVisibility harnesses the existing broadband infrastructure to rapidly deliver real-time, all-the-time, electrical data; enabling unprecedented visibility and situational awareness of distribution grid behaviors.
     slider_images:
