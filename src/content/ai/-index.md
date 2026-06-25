@@ -50,15 +50,15 @@ services:
   - title: AI Induced Oscillations and Harmonics Impact Grid Stability 
     description: Data center non-linear loads create distorted waveforms that interfere with the normal operation of electrical equipment. As the concentration of data centers increase, oscillations and harmonics impact utility infrastructure, customer-owned assets, and grid reliability. They degrade sensitive electronics, generate inaccurate measurements, and cause premature equipment failure. Harmonics have also caused catastrophic, cascading generation failures, making data centers a direct and present reliability risk to both bulk power and distribution networks. GridVisibility's high resolution data reveals these oscillations and harmonics, turning invisible risks into manageable decisions.
     slider_images:
-      - /images/services/GV_OscillationDetectionCombo1.png
+      - /images/services/GV_OscillationDetectionCombo2.jpg
   - title: Proactive Response Requires Aggregated Low Latency Awareness
     description: Data center sub second fluctuations at megawatt scales present an entirely new risk to the US grid. Oscillation and harmonic management is no longer a long-term strategic planning exercise, but a highly sophisticated, automated response platform operating at millisecond speeds…everywhere and all-the-time. Proactively peserving grid reliability, efficiency, and long-term health is the only viable path through scaled data center expansion.GridVisibility is the only cost-efficient, scalable, rapid, and frictionless pathway to the essential enabling data.
     slider_images:
-      - /images/services/GV_NationalView4.jpg
+      - /images/services/GV_NationalView5.jpg
   - title: Today's Infrastructure = Communications + Power + AI
     description: Successful data center integration will depend on careful planning, rigorous power quality analysis, strategic investments in grid infrastructure, and dynamically dispatchable, “virtual power plants” at scale. The future is applying AI to GridVisibility data for automated grid management, which requires secure, high-speed, and cost effective communications. Public and private organizations that understand these challenges, including the in-depth dynamics of their electric grids, will be significantly better positioned to support data center/AI and large growth, while maintaining the reliability, resilience, and power affordability that modern economies depend on.
     slider_images:
-      - /images/services/GV_NationalView_SinglePane1.jpg
+      - /images/services/GV_NationalView_SinglePane4.jpg
   - title: About GridVisibility
     description: GridVisibility harnesses the existing broadband infrastructure to rapidly deliver real-time, all-the-time, electrical data; enabling unprecedented visibility and situational awareness of distribution grid behaviors.
     slider_images:
