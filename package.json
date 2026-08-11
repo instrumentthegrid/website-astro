@@ -28,7 +28,7 @@
     "fuse.js": "^7.0.0",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
-    "marked": "^15.0.6",
+    "marked": "^18.0.0",
     "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-tailwindcss": "^0.8.0",
     "prop-types": "^15.8.1",
